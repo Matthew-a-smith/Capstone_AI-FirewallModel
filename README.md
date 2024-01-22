@@ -9,3 +9,6 @@ train_model.py --
 
 script is responsible for training the neural network-based firewall model. It loads the preprocessed tensor data, initializes the model architecture with an encoder and decoder, and utilizes Mean Squared Error loss for training. 
 The optimization process is handled by the Adam optimizer. The trained model is saved as firewall_model.pth for future use in predicting and creating firewall rules.
+
+
+![image](https://github.com/Matthew-a-smith/Capstone_AI-FirewallModel/assets/109995724/17ad6733-4d75-4867-b6cc-fc2b2f945b0a)
