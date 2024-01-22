@@ -1,0 +1,49 @@
+# train_model.py
+
+import torch
+import torch.nn as nn
+import torch.optim as optim
+from torch.utils.data import DataLoader
+from firewall_model import FirewallModel
+from process_data import FirewallDataset  # Import the dataset class
+
+# Load the processed dataset from the saved file
+dataset = torch.load('dataset.pt')  # Update to the correct filename
+
+# Split the dataset into training and testing sets
+train_size = int(0.8 * len(dataset))
+test_size = len(dataset) - train_size
+train_dataset, test_dataset = torch.utils.data.random_split(dataset, [train_size, test_size])
+
+# Create DataLoader for the training set
+train_dataloader = DataLoader(train_dataset, batch_size=10, shuffle=True)
+
+# Initialize model, criterion, and optimizer
+# Adjust the input_size based on the actual size of your features
+input_size = len(train_dataset[0][0])
+model = FirewallModel(input_size=input_size)  # Update to the correct input size
+criterion = nn.CrossEntropyLoss()  # Use CrossEntropyLoss for classification tasks
+optimizer = optim.Adam(model.parameters(), lr=0.001)
+
+# Training loop
+def train_model(model, criterion, optimizer, dataloader, num_epochs=10):
+    for epoch in range(num_epochs):
+        print(f'\nEpoch {epoch + 1}/{num_epochs}')
+        model.train()
+
+train_model.py
+        for i, (inputs, labels) in enumerate(dataloader, 1):
+            optimizer.zero_grad()
+            outputs = model(inputs)
+            loss = criterion(outputs, labels)  # No need to unsqueeze labels here
+            loss.backward()
+            optimizer.step()
+
+            if i % 10 == 0:  # Print every 10 batches
+                print(f'Batch {i}/{len(dataloader)} - Loss: {loss.item():.4f}')
+
+# Train the model
+train_model(model, criterion, optimizer, train_dataloader)
+
+# Save the trained model
+torch.save(model.state_dict(), 'firewall_model.pth')
