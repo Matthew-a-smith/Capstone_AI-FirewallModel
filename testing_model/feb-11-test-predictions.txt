@@ -1,0 +1,22 @@
+Model 1 Top 10 Predictions:
+No: 67, Time:2024/042 13:14:20.285233, Source:192.168.4.133, Protocol:ICMP, Info:Echo (ping) reply    id=0x0001, seq=363/27393, ttl=64 (request in 67), (Model 1):90.28%
+No: 66, Time:2024/042 13:14:20.285188, Source:192.168.4.30, Protocol:ICMP, Info:Echo (ping) request  id=0x0001, seq=363/27393, ttl=128 (reply in 68), (Model 1):90.28%
+No: 106, Time:2024/042 13:14:24.839669, Source:192.168.4.133, Protocol:ICMP, Info:Echo (ping) reply    id=0x0001, seq=367/28417, ttl=64 (request in 106), (Model 1):90.28%
+No: 105, Time:2024/042 13:14:24.839630, Source:192.168.4.30, Protocol:ICMP, Info:Echo (ping) request  id=0x0001, seq=367/28417, ttl=128 (reply in 107), (Model 1):90.28%
+No: 84, Time:2024/042 13:14:23.827521, Source:192.168.4.133, Protocol:ICMP, Info:Echo (ping) reply    id=0x0001, seq=366/28161, ttl=64 (request in 84), (Model 1):90.28%
+No: 83, Time:2024/042 13:14:23.827507, Source:192.168.4.30, Protocol:ICMP, Info:Echo (ping) request  id=0x0001, seq=366/28161, ttl=128 (reply in 85), (Model 1):90.28%
+No: 6193, Time:2024/042 13:15:02.082822, Source:192.168.4.133, Protocol:ICMP, Info:Echo (ping) reply    id=0x0001, seq=368/28673, ttl=64 (request in 6193), (Model 1):90.28%
+No: 6197, Time:2024/042 13:15:03.088686, Source:192.168.4.30, Protocol:ICMP, Info:Echo (ping) request  id=0x0001, seq=369/28929, ttl=128 (reply in 6199), (Model 1):90.28%
+No: 6198, Time:2024/042 13:15:03.088731, Source:192.168.4.133, Protocol:ICMP, Info:Echo (ping) reply    id=0x0001, seq=369/28929, ttl=64 (request in 6198), (Model 1):90.28%
+No: 75, Time:2024/042 13:14:22.816158, Source:192.168.4.133, Protocol:ICMP, Info:Echo (ping) reply    id=0x0001, seq=365/27905, ttl=64 (request in 75), (Model 1):90.28%
+Model 2 Top 10 Predictions:
+No: 37, Time:2024/042 13:13:48.893454, Source:192.168.4.133, Protocol:TCP, Info:47518  >  443 [ACK] Seq=1 Ack=1 Win=501 Len=0 TSval=335008240 TSecr=14421453, (Model 2):0.90%
+No: 109, Time:2024/042 13:14:34.001451, Source:192.168.4.133, Protocol:TCP, Info:[TCP Dup ACK 38#1] 47518  >  443 [ACK] Seq=1 Ack=1 Win=501 Len=0 TSval=335053348 TSecr=14466973, (Model 2):0.90%
+No: 8225, Time:2024/042 13:15:16.360874, Source:140.82.114.25, Protocol:TCP, Info:443  >  39524 [ACK] Seq=53 Ack=61 Win=70 Len=0 TSval=3513982273 TSecr=1008591329, (Model 2):0.90%
+No: 6196, Time:2024/042 13:15:02.799554, Source:34.107.243.93, Protocol:TCP, Info:443  >  33264 [ACK] Seq=25 Ack=29 Win=272 Len=0 TSval=606143164 TSecr=3722449628, (Model 2):0.90%
+No: 38, Time:2024/042 13:13:48.997852, Source:20.189.173.14, Protocol:TCP, Info:[TCP ACKed unseen segment] 443  >  47518 [ACK] Seq=1 Ack=2 Win=16386 Len=0 TSval=14466973 TSecr=334962669, (Model 2):0.90%
+No: 110, Time:2024/042 13:14:34.102084, Source:20.189.173.14, Protocol:TCP, Info:[TCP Dup ACK 39#1] 443  >  47518 [ACK] Seq=1 Ack=2 Win=16386 Len=0 TSval=14512080 TSecr=334962669, (Model 2):0.90%
+No: 8258, Time:2024/042 13:16:16.358072, Source:140.82.114.25, Protocol:TCP, Info:443  >  39524 [ACK] Seq=79 Ack=91 Win=70 Len=0 TSval=3514042269 TSecr=1008651327, (Model 2):0.90%
+No: 48, Time:2024/042 13:13:59.722113, Source:192.168.4.133, Protocol:TCP, Info:48676  >  443 [ACK] Seq=65 Ack=2 Win=4042 Len=0 TSval=2153427601 TSecr=774603642, (Model 2):0.90%
+No: 45, Time:2024/042 13:13:59.675897, Source:192.168.4.133, Protocol:TCP, Info:48676  >  443 [FIN, ACK] Seq=64 Ack=1 Win=4042 Len=0 TSval=2153427555 TSecr=774550983, (Model 2):0.90%
+No: 46, Time:2024/042 13:13:59.718266, Source:172.64.150.28, Protocol:TCP, Info:443  >  48676 [ACK] Seq=1 Ack=65 Win=8 Len=0 TSval=774603640 TSecr=2153427555, (Model 2):0.90%

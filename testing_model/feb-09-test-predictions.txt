@@ -1,0 +1,22 @@
+Model 1 Top 10 Predictions:
+No: 1351, Time:2024/036 14:35:40.178812, Source:192.168.4.30, Protocol:ICMP, Info:Echo (ping) request  id=0x0001, seq=210/53760, ttl=128 (reply in 1353), (Model 1):99.84%
+No: 1363, Time:2024/036 14:35:45.471051, Source:192.168.4.30, Protocol:ICMP, Info:Echo (ping) request  id=0x0001, seq=215/55040, ttl=128 (reply in 1365), (Model 1):99.74%
+No: 1344, Time:2024/036 14:35:36.746485, Source:192.168.4.30, Protocol:ICMP, Info:Echo (ping) request  id=0x0001, seq=207/52992, ttl=128 (reply in 1346), (Model 1):99.66%
+No: 1361, Time:2024/036 14:35:44.465895, Source:192.168.4.30, Protocol:ICMP, Info:Echo (ping) request  id=0x0001, seq=214/54784, ttl=128 (reply in 1363), (Model 1):99.64%
+No: 1346, Time:2024/036 14:35:37.763381, Source:192.168.4.30, Protocol:ICMP, Info:Echo (ping) request  id=0x0001, seq=208/53248, ttl=128 (reply in 1348), (Model 1):99.56%
+No: 1321, Time:2024/036 14:35:34.231543, Source:192.168.4.30, Protocol:ICMP, Info:Echo (ping) request  id=0x0001, seq=205/52480, ttl=128 (reply in 1323), (Model 1):99.56%
+No: 1383, Time:2024/036 14:35:47.502511, Source:192.168.4.30, Protocol:ICMP, Info:Echo (ping) request  id=0x0001, seq=217/55552, ttl=128 (reply in 1385), (Model 1):99.30%
+No: 1353, Time:2024/036 14:35:41.190368, Source:192.168.4.30, Protocol:ICMP, Info:Echo (ping) request  id=0x0001, seq=211/54016, ttl=128 (reply in 1355), (Model 1):99.18%
+No: 1357, Time:2024/036 14:35:42.205035, Source:192.168.4.30, Protocol:ICMP, Info:Echo (ping) request  id=0x0001, seq=212/54272, ttl=128 (reply in 1359), (Model 1):99.09%
+No: 1317, Time:2024/036 14:35:32.196227, Source:192.168.4.30, Protocol:ICMP, Info:Echo (ping) request  id=0x0001, seq=203/51968, ttl=128 (reply in 1319), (Model 1):98.94%
+Model 2 Top 10 Predictions:
+No: 33, Time:2024/036 14:34:14.778409, Source:192.168.4.133, Protocol:TCP, Info:33996  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 SACK_PERM TSval=1536133046 TSecr=0 WS=128, (Model 2):97.67%
+No: 192, Time:2024/036 14:34:16.223412, Source:192.168.4.133, Protocol:TCP, Info:43478  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 SACK_PERM TSval=2919356538 TSecr=0 WS=128, (Model 2):96.15%
+No: 331, Time:2024/036 14:34:19.739943, Source:192.168.4.133, Protocol:TCP, Info:[TCP Retransmission] 34368  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 SACK_PERM TSval=1881923716 TSecr=0 WS=128, (Model 2):95.66%
+No: 354, Time:2024/036 14:34:19.916146, Source:192.168.4.133, Protocol:TCP, Info:40684  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 SACK_PERM TSval=50932213 TSecr=0 WS=128, (Model 2):95.24%
+No: 746, Time:2024/036 14:34:22.045654, Source:192.168.4.133, Protocol:TCP, Info:54920  >  80 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 SACK_PERM TSval=2645149728 TSecr=0 WS=128, (Model 2):94.78%
+No: 498, Time:2024/036 14:34:21.457592, Source:192.168.4.133, Protocol:TCP, Info:38232  >  80 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 SACK_PERM TSval=3397496266 TSecr=0 WS=128, (Model 2):94.72%
+No: 959, Time:2024/036 14:34:23.580787, Source:192.168.4.133, Protocol:TCP, Info:60634  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 SACK_PERM TSval=2196165184 TSecr=0 WS=128, (Model 2):93.34%
+No: 496, Time:2024/036 14:34:21.457316, Source:192.168.4.133, Protocol:TCP, Info:38216  >  80 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 SACK_PERM TSval=3397496266 TSecr=0 WS=128, (Model 2):92.13%
+No: 836, Time:2024/036 14:34:22.880510, Source:192.168.4.133, Protocol:TCP, Info:33612  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 SACK_PERM TSval=1138291398 TSecr=0 WS=128, (Model 2):91.93%
+No: 22, Time:2024/036 14:34:14.723116, Source:192.168.4.133, Protocol:TCP, Info:33994  >  443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 SACK_PERM TSval=1536132991 TSecr=0 WS=128, (Model 2):90.69%

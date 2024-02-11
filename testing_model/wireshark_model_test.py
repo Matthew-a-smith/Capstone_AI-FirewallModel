@@ -14,8 +14,11 @@ model_paths = [
 models = [keras.models.load_model(model_path) for model_path in model_paths]
 
 # Load the CSV file
-csv_path = "home-network-feb06.csv"  
+csv_path = "home-network-feb09.csv"  
 df = pd.read_csv(csv_path)
+
+# Drop specific columns
+df = df.drop(columns=['No.'])
 
 # Filter DataFrame based on relevant protocol (e.g., TCP)
 relevant_protocols = ['TCP', 'DNS', 'ICMP']  # Adjust this list as per your relevant protocols
@@ -32,12 +35,12 @@ for i, prediction in enumerate(predictions):
     df_filtered.loc[:, f'probability_model{i+1}'] = prediction
 
 # Sort the DataFrame by the 'probability' column in descending order for each model
-df_sorted_models = [df_filtered.sort_values(by=f'probability_model{i+1}', ascending=False).head(20) for i in range(len(models))]
+df_sorted_models = [df_filtered.sort_values(by=f'probability_model{i+1}', ascending=False).head(10) for i in range(len(models))]
 
 # Write the sorted data to the output file
-output_file_path = "output.txt"  # Replace with the desired path for the output file
+output_file_path = "feb-09-test-predictions.txt"  # Replace with the desired path for the output file
 with open(output_file_path, 'w') as f:
     for i, df_sorted_model in enumerate(df_sorted_models):
-        f.write(f"Model {i+1} Top 20 Predictions:\n")
+        f.write(f"Model {i+1} Top 10 Predictions:\n")
         for idx, row in df_sorted_model.iterrows():
-            f.write(f"No: {idx}, Time: {row['Time']}, Source: {row['Source']}, Destination: {row['Destination']}, Protocol: {row['Protocol']}, (Model {i+1}): {row[f'probability_model{i+1}']:.2f}%\n")
+            f.write(f"No: {idx}, Time:{row['Time']}, Source:{row['Source']}, Protocol:{row['Protocol']}, Info:{row['Info']}, (Model {i+1}):{row[f'probability_model{i+1}']:.2f}%\n")
