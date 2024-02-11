@@ -1,0 +1,1 @@
+alert tcp any any -> any 23 (msg:"Telnet Traffic"; sid:1000004;)

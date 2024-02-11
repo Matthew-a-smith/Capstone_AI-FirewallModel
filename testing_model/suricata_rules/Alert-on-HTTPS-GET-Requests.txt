@@ -1,0 +1,1 @@
+alert tls any any -> 8.8.8.8 443 (msg:"HTTPS Traffic to Google"; sid:100004;)

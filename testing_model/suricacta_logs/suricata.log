@@ -1,0 +1,603 @@
+[97072 - Suricata-Main] 2024-02-03 13:31:30 Notice: suricata: This is Suricata version 7.0.2 RELEASE running in USER mode
+[97072 - Suricata-Main] 2024-02-03 13:31:30 Info: cpu: CPUs/cores online: 4
+[97072 - Suricata-Main] 2024-02-03 13:31:30 Info: suricata: Setting engine mode to IDS mode by default
+[97072 - Suricata-Main] 2024-02-03 13:31:30 Info: exception-policy: master exception-policy set to: auto
+[97072 - Suricata-Main] 2024-02-03 13:31:30 Info: logopenfile: fast output device (regular) initialized: fast.log
+[97072 - Suricata-Main] 2024-02-03 13:31:30 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[97072 - Suricata-Main] 2024-02-03 13:31:30 Info: logopenfile: stats output device (regular) initialized: stats.log
+[97072 - Suricata-Main] 2024-02-03 13:31:30 Info: detect: 5 rule files processed. 5 rules successfully loaded, 0 rules failed
+[97072 - Suricata-Main] 2024-02-03 13:31:30 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[97072 - Suricata-Main] 2024-02-03 13:31:30 Info: detect: 5 signatures processed. 2 are IP-only rules, 0 are inspecting packet payload, 2 inspect application layer, 0 are decoder event only
+[97072 - Suricata-Main] 2024-02-03 13:31:30 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[97081 - RX#01] 2024-02-03 13:31:30 Info: pcap: Starting file run for /home/matt1/Desktop/newModel/home_traffic.pcapng
+[97072 - Suricata-Main] 2024-02-03 13:31:30 Notice: threads: Threads created -> RX: 1 W: 4 FM: 1 FR: 1   Engine started.
+[97081 - RX#01] 2024-02-03 13:31:30 Info: checksum: No packets with invalid checksum, assuming checksum offloading is NOT used
+[97081 - RX#01] 2024-02-03 13:31:30 Info: pcap: pcap file /home/matt1/Desktop/newModel/home_traffic.pcapng end of file reached (pcap err code 0)
+[97072 - Suricata-Main] 2024-02-03 13:31:30 Notice: suricata: Signal Received.  Stopping engine.
+[97072 - Suricata-Main] 2024-02-03 13:31:30 Info: suricata: time elapsed 0.063s
+[97081 - RX#01] 2024-02-03 13:31:30 Notice: pcap: read 1 file, 2242 packets, 1151351 bytes
+[97072 - Suricata-Main] 2024-02-03 13:31:30 Info: counters: Alerts: 29
+[11147 - Suricata-Main] 2024-02-04 10:33:13 Notice: suricata: This is Suricata version 7.0.2 RELEASE running in USER mode
+[11147 - Suricata-Main] 2024-02-04 10:33:13 Info: cpu: CPUs/cores online: 4
+[11147 - Suricata-Main] 2024-02-04 10:33:13 Info: suricata: Setting engine mode to IDS mode by default
+[11147 - Suricata-Main] 2024-02-04 10:33:13 Info: exception-policy: master exception-policy set to: auto
+[11147 - Suricata-Main] 2024-02-04 10:33:13 Info: logopenfile: fast output device (regular) initialized: fast.log
+[11147 - Suricata-Main] 2024-02-04 10:33:13 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[11147 - Suricata-Main] 2024-02-04 10:33:13 Info: logopenfile: stats output device (regular) initialized: stats.log
+[11147 - Suricata-Main] 2024-02-04 10:33:13 Info: detect: 1 rule files processed. 1 rules successfully loaded, 0 rules failed
+[11147 - Suricata-Main] 2024-02-04 10:33:13 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[11147 - Suricata-Main] 2024-02-04 10:33:13 Info: detect: 1 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+[11147 - Suricata-Main] 2024-02-04 10:33:13 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[11148 - RX#01] 2024-02-04 10:33:13 Info: pcap: Starting file run for /home/matt1/Desktop/newModel/home_traffic.pcapng
+[11147 - Suricata-Main] 2024-02-04 10:33:13 Notice: threads: Threads created -> RX: 1 W: 4 FM: 1 FR: 1   Engine started.
+[11148 - RX#01] 2024-02-04 10:33:13 Info: checksum: No packets with invalid checksum, assuming checksum offloading is NOT used
+[11148 - RX#01] 2024-02-04 10:33:13 Info: pcap: pcap file /home/matt1/Desktop/newModel/home_traffic.pcapng end of file reached (pcap err code 0)
+[11147 - Suricata-Main] 2024-02-04 10:33:13 Notice: suricata: Signal Received.  Stopping engine.
+[11147 - Suricata-Main] 2024-02-04 10:33:13 Info: suricata: time elapsed 0.075s
+[11148 - RX#01] 2024-02-04 10:33:13 Notice: pcap: read 1 file, 2242 packets, 1151351 bytes
+[11147 - Suricata-Main] 2024-02-04 10:33:13 Info: counters: Alerts: 5
+[54693 - Suricata-Main] 2024-02-04 11:51:18 Notice: suricata: This is Suricata version 7.0.2 RELEASE running in USER mode
+[54693 - Suricata-Main] 2024-02-04 11:51:18 Info: cpu: CPUs/cores online: 4
+[54693 - Suricata-Main] 2024-02-04 11:51:18 Info: suricata: Setting engine mode to IDS mode by default
+[54693 - Suricata-Main] 2024-02-04 11:51:18 Info: exception-policy: master exception-policy set to: auto
+[54693 - Suricata-Main] 2024-02-04 11:51:18 Info: logopenfile: fast output device (regular) initialized: fast.log
+[54693 - Suricata-Main] 2024-02-04 11:51:18 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[54693 - Suricata-Main] 2024-02-04 11:51:18 Info: logopenfile: stats output device (regular) initialized: stats.log
+[54693 - Suricata-Main] 2024-02-04 11:51:18 Error: detect-parse: unknown rule keyword 'severity'.
+[54693 - Suricata-Main] 2024-02-04 11:51:18 Error: detect: error parsing signature "alert icmp any any -> any any (msg:"ICMP Echo Request"; itype:8; sid:1000001; classtype:icmp-event; severity:1; rev:1; signature:"ICMP Echo Request - Custom Signature";)" from file /home/matt1/Desktop/suricata_rules/Alert-on-ICMP-Echo-Requests-Ping.txt at line 1
+[54693 - Suricata-Main] 2024-02-04 11:51:18 Warning: detect: 1 rule files specified, but no rules were loaded!
+[54693 - Suricata-Main] 2024-02-04 11:51:18 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[54693 - Suricata-Main] 2024-02-04 11:51:18 Info: detect: 0 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+[54693 - Suricata-Main] 2024-02-04 11:51:18 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[54694 - RX#01] 2024-02-04 11:51:18 Info: pcap: Starting file run for /home/matt1/Desktop/newModel/home-traffic.pcapng
+[54693 - Suricata-Main] 2024-02-04 11:51:18 Notice: threads: Threads created -> RX: 1 W: 4 FM: 1 FR: 1   Engine started.
+[54694 - RX#01] 2024-02-04 11:51:18 Info: pcap: pcap file /home/matt1/Desktop/newModel/home-traffic.pcapng end of file reached (pcap err code 0)
+[54693 - Suricata-Main] 2024-02-04 11:51:18 Notice: suricata: Signal Received.  Stopping engine.
+[54693 - Suricata-Main] 2024-02-04 11:51:18 Info: suricata: time elapsed 0.064s
+[54694 - RX#01] 2024-02-04 11:51:18 Info: pcap: 1/172th of packets have an invalid checksum
+[54694 - RX#01] 2024-02-04 11:51:18 Notice: pcap: read 1 file, 691 packets, 145343 bytes
+[54693 - Suricata-Main] 2024-02-04 11:51:18 Info: counters: Alerts: 0
+[55387 - Suricata-Main] 2024-02-04 11:52:39 Notice: suricata: This is Suricata version 7.0.2 RELEASE running in USER mode
+[55387 - Suricata-Main] 2024-02-04 11:52:39 Info: cpu: CPUs/cores online: 4
+[55387 - Suricata-Main] 2024-02-04 11:52:39 Info: suricata: Setting engine mode to IDS mode by default
+[55387 - Suricata-Main] 2024-02-04 11:52:39 Info: exception-policy: master exception-policy set to: auto
+[55387 - Suricata-Main] 2024-02-04 11:52:39 Info: logopenfile: fast output device (regular) initialized: fast.log
+[55387 - Suricata-Main] 2024-02-04 11:52:39 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[55387 - Suricata-Main] 2024-02-04 11:52:39 Info: logopenfile: stats output device (regular) initialized: stats.log
+[55387 - Suricata-Main] 2024-02-04 11:52:39 Error: detect-parse: unknown rule keyword 'signature'.
+[55387 - Suricata-Main] 2024-02-04 11:52:39 Error: detect: error parsing signature "alert icmp any any -> any any (msg:"ICMP Echo Request"; itype:8; sid:1000001; classtype:icmp-event; signature:"ICMP Echo Request - Custom Signature";)" from file /home/matt1/Desktop/suricata_rules/Alert-on-ICMP-Echo-Requests-Ping.txt at line 1
+[55387 - Suricata-Main] 2024-02-04 11:52:39 Warning: detect: 1 rule files specified, but no rules were loaded!
+[55387 - Suricata-Main] 2024-02-04 11:52:39 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[55387 - Suricata-Main] 2024-02-04 11:52:39 Info: detect: 0 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+[55387 - Suricata-Main] 2024-02-04 11:52:39 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[55388 - RX#01] 2024-02-04 11:52:39 Info: pcap: Starting file run for /home/matt1/Desktop/newModel/home-traffic.pcapng
+[55387 - Suricata-Main] 2024-02-04 11:52:39 Notice: threads: Threads created -> RX: 1 W: 4 FM: 1 FR: 1   Engine started.
+[55388 - RX#01] 2024-02-04 11:52:39 Info: pcap: pcap file /home/matt1/Desktop/newModel/home-traffic.pcapng end of file reached (pcap err code 0)
+[55387 - Suricata-Main] 2024-02-04 11:52:39 Notice: suricata: Signal Received.  Stopping engine.
+[55387 - Suricata-Main] 2024-02-04 11:52:39 Info: suricata: time elapsed 0.063s
+[55388 - RX#01] 2024-02-04 11:52:39 Info: pcap: 1/172th of packets have an invalid checksum
+[55388 - RX#01] 2024-02-04 11:52:39 Notice: pcap: read 1 file, 691 packets, 145343 bytes
+[55387 - Suricata-Main] 2024-02-04 11:52:39 Info: counters: Alerts: 0
+[56209 - Suricata-Main] 2024-02-04 11:54:05 Notice: suricata: This is Suricata version 7.0.2 RELEASE running in USER mode
+[56209 - Suricata-Main] 2024-02-04 11:54:05 Info: cpu: CPUs/cores online: 4
+[56209 - Suricata-Main] 2024-02-04 11:54:05 Info: suricata: Setting engine mode to IDS mode by default
+[56209 - Suricata-Main] 2024-02-04 11:54:05 Info: exception-policy: master exception-policy set to: auto
+[56209 - Suricata-Main] 2024-02-04 11:54:06 Info: logopenfile: fast output device (regular) initialized: fast.log
+[56209 - Suricata-Main] 2024-02-04 11:54:06 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[56209 - Suricata-Main] 2024-02-04 11:54:06 Info: logopenfile: stats output device (regular) initialized: stats.log
+[56209 - Suricata-Main] 2024-02-04 11:54:06 Error: detect-msg: duplicated 'msg' keyword detected
+[56209 - Suricata-Main] 2024-02-04 11:54:06 Error: detect: error parsing signature "alert icmp any any -> any any (msg:"ICMP Echo Request"; itype:8; sid:1000001; classtype:icmp-event; msg:"ICMP Echo Request";)" from file /home/matt1/Desktop/suricata_rules/Alert-on-ICMP-Echo-Requests-Ping.txt at line 1
+[56209 - Suricata-Main] 2024-02-04 11:54:06 Warning: detect: 1 rule files specified, but no rules were loaded!
+[56209 - Suricata-Main] 2024-02-04 11:54:06 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[56209 - Suricata-Main] 2024-02-04 11:54:06 Info: detect: 0 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+[56209 - Suricata-Main] 2024-02-04 11:54:06 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[56210 - RX#01] 2024-02-04 11:54:06 Info: pcap: Starting file run for /home/matt1/Desktop/newModel/home-traffic.pcapng
+[56209 - Suricata-Main] 2024-02-04 11:54:06 Notice: threads: Threads created -> RX: 1 W: 4 FM: 1 FR: 1   Engine started.
+[56210 - RX#01] 2024-02-04 11:54:06 Info: pcap: pcap file /home/matt1/Desktop/newModel/home-traffic.pcapng end of file reached (pcap err code 0)
+[56209 - Suricata-Main] 2024-02-04 11:54:06 Notice: suricata: Signal Received.  Stopping engine.
+[56209 - Suricata-Main] 2024-02-04 11:54:06 Info: suricata: time elapsed 0.063s
+[56210 - RX#01] 2024-02-04 11:54:06 Info: pcap: 1/172th of packets have an invalid checksum
+[56210 - RX#01] 2024-02-04 11:54:06 Notice: pcap: read 1 file, 691 packets, 145343 bytes
+[56209 - Suricata-Main] 2024-02-04 11:54:06 Info: counters: Alerts: 0
+[57027 - Suricata-Main] 2024-02-04 11:55:37 Notice: suricata: This is Suricata version 7.0.2 RELEASE running in USER mode
+[57027 - Suricata-Main] 2024-02-04 11:55:37 Info: cpu: CPUs/cores online: 4
+[57027 - Suricata-Main] 2024-02-04 11:55:37 Info: suricata: Setting engine mode to IDS mode by default
+[57027 - Suricata-Main] 2024-02-04 11:55:37 Info: exception-policy: master exception-policy set to: auto
+[57027 - Suricata-Main] 2024-02-04 11:55:37 Info: logopenfile: fast output device (regular) initialized: fast.log
+[57027 - Suricata-Main] 2024-02-04 11:55:37 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[57027 - Suricata-Main] 2024-02-04 11:55:37 Info: logopenfile: stats output device (regular) initialized: stats.log
+[57027 - Suricata-Main] 2024-02-04 11:55:37 Info: detect: 1 rule files processed. 1 rules successfully loaded, 0 rules failed
+[57027 - Suricata-Main] 2024-02-04 11:55:37 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[57027 - Suricata-Main] 2024-02-04 11:55:37 Info: detect: 1 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+[57027 - Suricata-Main] 2024-02-04 11:55:37 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[57028 - RX#01] 2024-02-04 11:55:37 Info: pcap: Starting file run for /home/matt1/Desktop/newModel/home-traffic.pcapng
+[57027 - Suricata-Main] 2024-02-04 11:55:37 Notice: threads: Threads created -> RX: 1 W: 4 FM: 1 FR: 1   Engine started.
+[57028 - RX#01] 2024-02-04 11:55:37 Info: pcap: pcap file /home/matt1/Desktop/newModel/home-traffic.pcapng end of file reached (pcap err code 0)
+[57027 - Suricata-Main] 2024-02-04 11:55:37 Notice: suricata: Signal Received.  Stopping engine.
+[57027 - Suricata-Main] 2024-02-04 11:55:37 Info: suricata: time elapsed 0.063s
+[57028 - RX#01] 2024-02-04 11:55:37 Info: pcap: 1/172th of packets have an invalid checksum
+[57028 - RX#01] 2024-02-04 11:55:37 Notice: pcap: read 1 file, 691 packets, 145343 bytes
+[57027 - Suricata-Main] 2024-02-04 11:55:37 Info: counters: Alerts: 8
+[51284 - Suricata-Main] 2024-02-05 14:39:42 Notice: suricata: This is Suricata version 7.0.2 RELEASE running in USER mode
+[51284 - Suricata-Main] 2024-02-05 14:39:42 Info: cpu: CPUs/cores online: 4
+[51284 - Suricata-Main] 2024-02-05 14:39:42 Info: suricata: Setting engine mode to IDS mode by default
+[51284 - Suricata-Main] 2024-02-05 14:39:42 Info: exception-policy: master exception-policy set to: auto
+[51284 - Suricata-Main] 2024-02-05 14:39:42 Info: logopenfile: fast output device (regular) initialized: fast.log
+[51284 - Suricata-Main] 2024-02-05 14:39:42 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[51284 - Suricata-Main] 2024-02-05 14:39:42 Info: logopenfile: stats output device (regular) initialized: stats.log
+[51284 - Suricata-Main] 2024-02-05 14:39:42 Info: detect: 1 rule files processed. 1 rules successfully loaded, 0 rules failed
+[51284 - Suricata-Main] 2024-02-05 14:39:42 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[51284 - Suricata-Main] 2024-02-05 14:39:42 Info: detect: 1 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+[51284 - Suricata-Main] 2024-02-05 14:39:42 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[51293 - RX#01] 2024-02-05 14:39:42 Info: pcap: Starting file run for /home/matt1/Desktop/capstone-AI-model_network_traffic/Home-Traffic.pcapng
+[51284 - Suricata-Main] 2024-02-05 14:39:42 Notice: threads: Threads created -> RX: 1 W: 4 FM: 1 FR: 1   Engine started.
+[51293 - RX#01] 2024-02-05 14:39:42 Info: checksum: No packets with invalid checksum, assuming checksum offloading is NOT used
+[51293 - RX#01] 2024-02-05 14:39:42 Info: pcap: pcap file /home/matt1/Desktop/capstone-AI-model_network_traffic/Home-Traffic.pcapng end of file reached (pcap err code 0)
+[51284 - Suricata-Main] 2024-02-05 14:39:42 Notice: suricata: Signal Received.  Stopping engine.
+[51284 - Suricata-Main] 2024-02-05 14:39:42 Info: suricata: time elapsed 0.064s
+[51293 - RX#01] 2024-02-05 14:39:42 Notice: pcap: read 1 file, 1549 packets, 551718 bytes
+[51284 - Suricata-Main] 2024-02-05 14:39:42 Info: counters: Alerts: 16
+[107031 - Suricata-Main] 2024-02-06 17:19:12 Notice: suricata: This is Suricata version 7.0.2 RELEASE running in USER mode
+[107031 - Suricata-Main] 2024-02-06 17:19:12 Info: cpu: CPUs/cores online: 4
+[107031 - Suricata-Main] 2024-02-06 17:19:12 Info: suricata: Setting engine mode to IDS mode by default
+[107031 - Suricata-Main] 2024-02-06 17:19:12 Info: exception-policy: master exception-policy set to: auto
+[107031 - Suricata-Main] 2024-02-06 17:19:12 Info: logopenfile: fast output device (regular) initialized: fast.log
+[107031 - Suricata-Main] 2024-02-06 17:19:12 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[107031 - Suricata-Main] 2024-02-06 17:19:12 Info: logopenfile: stats output device (regular) initialized: stats.log
+[107031 - Suricata-Main] 2024-02-06 17:19:12 Error: detect: previous sticky buffer has no matches
+[107031 - Suricata-Main] 2024-02-06 17:19:12 Error: detect: error parsing signature "alert tls any any -> any any (msg:"HTTPS Traffic on Port 443"; flow:established; tls.sni; tls.cert_subject; sid:100004;)" from file /home/matt1/Desktop/capstone-AI-model_network_traffic/suricata_rules/Alert-on-HTTPS-GET-Requests.txt at line 1
+[107031 - Suricata-Main] 2024-02-06 17:19:12 Warning: detect: 1 rule files specified, but no rules were loaded!
+[107031 - Suricata-Main] 2024-02-06 17:19:12 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[107031 - Suricata-Main] 2024-02-06 17:19:12 Info: detect: 0 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+[107031 - Suricata-Main] 2024-02-06 17:19:12 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[107032 - RX#01] 2024-02-06 17:19:12 Info: pcap: Starting file run for /home/matt1/Desktop/capstone-AI-model_network_traffic/Home-Traffic.pcapng
+[107031 - Suricata-Main] 2024-02-06 17:19:12 Notice: threads: Threads created -> RX: 1 W: 4 FM: 1 FR: 1   Engine started.
+[107032 - RX#01] 2024-02-06 17:19:12 Info: checksum: Less than 1/10th of packets have an invalid checksum, assuming checksum offloading is NOT used (13/1000)
+[107032 - RX#01] 2024-02-06 17:19:12 Info: pcap: pcap file /home/matt1/Desktop/capstone-AI-model_network_traffic/Home-Traffic.pcapng end of file reached (pcap err code 0)
+[107031 - Suricata-Main] 2024-02-06 17:19:12 Notice: suricata: Signal Received.  Stopping engine.
+[107031 - Suricata-Main] 2024-02-06 17:19:13 Info: suricata: time elapsed 0.065s
+[107032 - RX#01] 2024-02-06 17:19:13 Notice: pcap: read 1 file, 1549 packets, 551718 bytes
+[107031 - Suricata-Main] 2024-02-06 17:19:13 Info: counters: Alerts: 0
+[107372 - Suricata-Main] 2024-02-06 17:19:53 Notice: suricata: This is Suricata version 7.0.2 RELEASE running in USER mode
+[107372 - Suricata-Main] 2024-02-06 17:19:53 Info: cpu: CPUs/cores online: 4
+[107372 - Suricata-Main] 2024-02-06 17:19:53 Info: suricata: Setting engine mode to IDS mode by default
+[107372 - Suricata-Main] 2024-02-06 17:19:53 Info: exception-policy: master exception-policy set to: auto
+[107372 - Suricata-Main] 2024-02-06 17:19:53 Info: logopenfile: fast output device (regular) initialized: fast.log
+[107372 - Suricata-Main] 2024-02-06 17:19:53 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[107372 - Suricata-Main] 2024-02-06 17:19:53 Info: logopenfile: stats output device (regular) initialized: stats.log
+[107372 - Suricata-Main] 2024-02-06 17:19:53 Info: detect: 1 rule files processed. 1 rules successfully loaded, 0 rules failed
+[107372 - Suricata-Main] 2024-02-06 17:19:53 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[107372 - Suricata-Main] 2024-02-06 17:19:53 Info: detect: 1 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 1 inspect application layer, 0 are decoder event only
+[107372 - Suricata-Main] 2024-02-06 17:19:53 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[107373 - RX#01] 2024-02-06 17:19:53 Info: pcap: Starting file run for /home/matt1/Desktop/capstone-AI-model_network_traffic/Home-Traffic.pcapng
+[107373 - RX#01] 2024-02-06 17:19:53 Info: checksum: Less than 1/10th of packets have an invalid checksum, assuming checksum offloading is NOT used (1/1000)
+[107372 - Suricata-Main] 2024-02-06 17:19:53 Notice: threads: Threads created -> RX: 1 W: 4 FM: 1 FR: 1   Engine started.
+[107373 - RX#01] 2024-02-06 17:19:53 Info: pcap: pcap file /home/matt1/Desktop/capstone-AI-model_network_traffic/Home-Traffic.pcapng end of file reached (pcap err code 0)
+[107372 - Suricata-Main] 2024-02-06 17:19:53 Notice: suricata: Signal Received.  Stopping engine.
+[107372 - Suricata-Main] 2024-02-06 17:19:53 Info: suricata: time elapsed 0.067s
+[107373 - RX#01] 2024-02-06 17:19:53 Notice: pcap: read 1 file, 1549 packets, 551718 bytes
+[107372 - Suricata-Main] 2024-02-06 17:19:53 Info: counters: Alerts: 605
+[110351 - Suricata-Main] 2024-02-06 17:25:30 Notice: suricata: This is Suricata version 7.0.2 RELEASE running in USER mode
+[110351 - Suricata-Main] 2024-02-06 17:25:30 Info: cpu: CPUs/cores online: 4
+[110351 - Suricata-Main] 2024-02-06 17:25:30 Info: suricata: Setting engine mode to IDS mode by default
+[110351 - Suricata-Main] 2024-02-06 17:25:30 Info: exception-policy: master exception-policy set to: auto
+[110351 - Suricata-Main] 2024-02-06 17:25:30 Info: logopenfile: fast output device (regular) initialized: fast.log
+[110351 - Suricata-Main] 2024-02-06 17:25:30 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[110351 - Suricata-Main] 2024-02-06 17:25:30 Info: logopenfile: stats output device (regular) initialized: stats.log
+[110351 - Suricata-Main] 2024-02-06 17:25:30 Info: detect: 1 rule files processed. 1 rules successfully loaded, 0 rules failed
+[110351 - Suricata-Main] 2024-02-06 17:25:30 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[110351 - Suricata-Main] 2024-02-06 17:25:30 Info: detect: 1 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 1 inspect application layer, 0 are decoder event only
+[110351 - Suricata-Main] 2024-02-06 17:25:30 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[110352 - RX#01] 2024-02-06 17:25:30 Info: pcap: Starting file run for /home/matt1/Desktop/capstone-AI-model_network_traffic/Home-Traffic.pcapng
+[110351 - Suricata-Main] 2024-02-06 17:25:30 Notice: threads: Threads created -> RX: 1 W: 4 FM: 1 FR: 1   Engine started.
+[110352 - RX#01] 2024-02-06 17:25:30 Info: checksum: Less than 1/10th of packets have an invalid checksum, assuming checksum offloading is NOT used (3/1000)
+[110352 - RX#01] 2024-02-06 17:25:30 Info: pcap: pcap file /home/matt1/Desktop/capstone-AI-model_network_traffic/Home-Traffic.pcapng end of file reached (pcap err code 0)
+[110351 - Suricata-Main] 2024-02-06 17:25:30 Notice: suricata: Signal Received.  Stopping engine.
+[110351 - Suricata-Main] 2024-02-06 17:25:30 Info: suricata: time elapsed 0.064s
+[110352 - RX#01] 2024-02-06 17:25:30 Notice: pcap: read 1 file, 1549 packets, 551718 bytes
+[110351 - Suricata-Main] 2024-02-06 17:25:30 Info: counters: Alerts: 334
+[139644 - Suricata-Main] 2024-02-06 18:03:33 Notice: suricata: This is Suricata version 7.0.2 RELEASE running in USER mode
+[139644 - Suricata-Main] 2024-02-06 18:03:33 Info: cpu: CPUs/cores online: 4
+[139644 - Suricata-Main] 2024-02-06 18:03:33 Info: suricata: Setting engine mode to IDS mode by default
+[139644 - Suricata-Main] 2024-02-06 18:03:33 Info: exception-policy: master exception-policy set to: auto
+[139644 - Suricata-Main] 2024-02-06 18:03:33 Info: logopenfile: fast output device (regular) initialized: fast.log
+[139644 - Suricata-Main] 2024-02-06 18:03:33 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[139644 - Suricata-Main] 2024-02-06 18:03:33 Info: logopenfile: stats output device (regular) initialized: stats.log
+[139644 - Suricata-Main] 2024-02-06 18:03:33 Info: detect: 1 rule files processed. 1 rules successfully loaded, 0 rules failed
+[139644 - Suricata-Main] 2024-02-06 18:03:33 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[139644 - Suricata-Main] 2024-02-06 18:03:33 Info: detect: 1 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+[139644 - Suricata-Main] 2024-02-06 18:03:33 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[139653 - RX#01] 2024-02-06 18:03:33 Info: pcap: Starting file run for /home/matt1/Desktop/capstone-AI-model_network_traffic/Home-Traffic.pcapng
+[139644 - Suricata-Main] 2024-02-06 18:03:33 Notice: threads: Threads created -> RX: 1 W: 4 FM: 1 FR: 1   Engine started.
+[139653 - RX#01] 2024-02-06 18:03:33 Info: checksum: Less than 1/10th of packets have an invalid checksum, assuming checksum offloading is NOT used (22/1000)
+[139653 - RX#01] 2024-02-06 18:03:33 Info: pcap: pcap file /home/matt1/Desktop/capstone-AI-model_network_traffic/Home-Traffic.pcapng end of file reached (pcap err code 0)
+[139644 - Suricata-Main] 2024-02-06 18:03:33 Notice: suricata: Signal Received.  Stopping engine.
+[139644 - Suricata-Main] 2024-02-06 18:03:33 Info: suricata: time elapsed 0.066s
+[139653 - RX#01] 2024-02-06 18:03:33 Notice: pcap: read 1 file, 1549 packets, 551718 bytes
+[139644 - Suricata-Main] 2024-02-06 18:03:33 Info: counters: Alerts: 16
+[201907 - Suricata-Main] 2024-02-06 18:50:59 Notice: suricata: This is Suricata version 7.0.2 RELEASE running in USER mode
+[201907 - Suricata-Main] 2024-02-06 18:50:59 Info: cpu: CPUs/cores online: 4
+[201907 - Suricata-Main] 2024-02-06 18:50:59 Info: suricata: Setting engine mode to IDS mode by default
+[201907 - Suricata-Main] 2024-02-06 18:50:59 Info: exception-policy: master exception-policy set to: auto
+[201907 - Suricata-Main] 2024-02-06 18:50:59 Info: logopenfile: fast output device (regular) initialized: fast.log
+[201907 - Suricata-Main] 2024-02-06 18:50:59 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[201907 - Suricata-Main] 2024-02-06 18:50:59 Info: logopenfile: stats output device (regular) initialized: stats.log
+[201907 - Suricata-Main] 2024-02-06 18:50:59 Error: detect-parse: unexpected option to tls.sni keyword: 'tls.sni'
+[201907 - Suricata-Main] 2024-02-06 18:50:59 Error: detect: error parsing signature "alert tls any any -> any 443 (msg:"HTTPS Traffic to Google"; tls.sni:"www.google.com"; sid:100004;)" from file /home/matt1/Desktop/capstone-AI-model_network_traffic/suricata_rules/Alert-on-HTTPS-GET-Requests.txt at line 1
+[201907 - Suricata-Main] 2024-02-06 18:50:59 Warning: detect: 1 rule files specified, but no rules were loaded!
+[201907 - Suricata-Main] 2024-02-06 18:50:59 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[201907 - Suricata-Main] 2024-02-06 18:50:59 Info: detect: 0 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+[201907 - Suricata-Main] 2024-02-06 18:50:59 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[201916 - RX#01] 2024-02-06 18:50:59 Info: pcap: Starting file run for /home/matt1/Desktop/capstone-AI-model_network_traffic/Home-Traffic.pcapng
+[201907 - Suricata-Main] 2024-02-06 18:50:59 Notice: threads: Threads created -> RX: 1 W: 4 FM: 1 FR: 1   Engine started.
+[201916 - RX#01] 2024-02-06 18:50:59 Info: checksum: No packets with invalid checksum, assuming checksum offloading is NOT used
+[201916 - RX#01] 2024-02-06 18:50:59 Info: pcap: pcap file /home/matt1/Desktop/capstone-AI-model_network_traffic/Home-Traffic.pcapng end of file reached (pcap err code 0)
+[201907 - Suricata-Main] 2024-02-06 18:50:59 Notice: suricata: Signal Received.  Stopping engine.
+[201907 - Suricata-Main] 2024-02-06 18:50:59 Info: suricata: time elapsed 0.065s
+[201916 - RX#01] 2024-02-06 18:50:59 Notice: pcap: read 1 file, 1549 packets, 551718 bytes
+[201907 - Suricata-Main] 2024-02-06 18:50:59 Info: counters: Alerts: 0
+[204662 - Suricata-Main] 2024-02-06 18:56:31 Notice: suricata: This is Suricata version 7.0.2 RELEASE running in USER mode
+[204662 - Suricata-Main] 2024-02-06 18:56:31 Info: cpu: CPUs/cores online: 4
+[204662 - Suricata-Main] 2024-02-06 18:56:31 Info: suricata: Setting engine mode to IDS mode by default
+[204662 - Suricata-Main] 2024-02-06 18:56:31 Info: exception-policy: master exception-policy set to: auto
+[204662 - Suricata-Main] 2024-02-06 18:56:31 Info: logopenfile: fast output device (regular) initialized: fast.log
+[204662 - Suricata-Main] 2024-02-06 18:56:31 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[204662 - Suricata-Main] 2024-02-06 18:56:31 Info: logopenfile: stats output device (regular) initialized: stats.log
+[204662 - Suricata-Main] 2024-02-06 18:56:31 Error: detect:  failed to parse port "(msg:"HTTPS"
+[204662 - Suricata-Main] 2024-02-06 18:56:31 Error: detect: error parsing signature "alert tls any any -> 8.8.8.8 (msg:"HTTPS Traffic to Google"; sid:100004;)" from file /home/matt1/Desktop/capstone-AI-model_network_traffic/suricata_rules/Alert-on-HTTPS-GET-Requests.txt at line 1
+[204662 - Suricata-Main] 2024-02-06 18:56:31 Info: detect: 2 rule files processed. 1 rules successfully loaded, 1 rules failed
+[204662 - Suricata-Main] 2024-02-06 18:56:31 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[204662 - Suricata-Main] 2024-02-06 18:56:31 Info: detect: 1 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 1 inspect application layer, 0 are decoder event only
+[204662 - Suricata-Main] 2024-02-06 18:56:31 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[204663 - RX#01] 2024-02-06 18:56:31 Info: pcap: Starting file run for /home/matt1/Desktop/capstone-AI-model_network_traffic/Home-Traffic.pcapng
+[204662 - Suricata-Main] 2024-02-06 18:56:31 Notice: threads: Threads created -> RX: 1 W: 4 FM: 1 FR: 1   Engine started.
+[204663 - RX#01] 2024-02-06 18:56:31 Info: checksum: Less than 1/10th of packets have an invalid checksum, assuming checksum offloading is NOT used (35/1000)
+[204663 - RX#01] 2024-02-06 18:56:31 Info: pcap: pcap file /home/matt1/Desktop/capstone-AI-model_network_traffic/Home-Traffic.pcapng end of file reached (pcap err code 0)
+[204662 - Suricata-Main] 2024-02-06 18:56:31 Notice: suricata: Signal Received.  Stopping engine.
+[204662 - Suricata-Main] 2024-02-06 18:56:31 Info: suricata: time elapsed 0.066s
+[204663 - RX#01] 2024-02-06 18:56:31 Notice: pcap: read 1 file, 1549 packets, 551718 bytes
+[204662 - Suricata-Main] 2024-02-06 18:56:31 Info: counters: Alerts: 0
+[205342 - Suricata-Main] 2024-02-06 18:57:53 Notice: suricata: This is Suricata version 7.0.2 RELEASE running in USER mode
+[205342 - Suricata-Main] 2024-02-06 18:57:53 Info: cpu: CPUs/cores online: 4
+[205342 - Suricata-Main] 2024-02-06 18:57:53 Info: suricata: Setting engine mode to IDS mode by default
+[205342 - Suricata-Main] 2024-02-06 18:57:53 Info: exception-policy: master exception-policy set to: auto
+[205342 - Suricata-Main] 2024-02-06 18:57:53 Info: logopenfile: fast output device (regular) initialized: fast.log
+[205342 - Suricata-Main] 2024-02-06 18:57:53 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[205342 - Suricata-Main] 2024-02-06 18:57:53 Info: logopenfile: stats output device (regular) initialized: stats.log
+[205342 - Suricata-Main] 2024-02-06 18:57:53 Error: detect-parse: Duplicate signature "alert tls any any -> 8.8.8.8 443 (msg:"HTTPS Traffic to Google"; sid:100004;)"
+[205342 - Suricata-Main] 2024-02-06 18:57:53 Error: detect: error parsing signature "alert tls any any -> 8.8.8.8 443 (msg:"HTTPS Traffic to Google"; sid:100004;)" from file /home/matt1/Desktop/capstone-AI-model_network_traffic/suricata_rules/Alert-on-HTTPS-GET-Requests.txt at line 1
+[205342 - Suricata-Main] 2024-02-06 18:57:53 Info: detect: 2 rule files processed. 1 rules successfully loaded, 1 rules failed
+[205342 - Suricata-Main] 2024-02-06 18:57:53 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[205342 - Suricata-Main] 2024-02-06 18:57:53 Info: detect: 1 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 1 inspect application layer, 0 are decoder event only
+[205342 - Suricata-Main] 2024-02-06 18:57:53 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[205343 - RX#01] 2024-02-06 18:57:53 Info: pcap: Starting file run for /home/matt1/Desktop/capstone-AI-model_network_traffic/Home-Traffic.pcapng
+[205342 - Suricata-Main] 2024-02-06 18:57:53 Notice: threads: Threads created -> RX: 1 W: 4 FM: 1 FR: 1   Engine started.
+[205343 - RX#01] 2024-02-06 18:57:53 Info: checksum: Less than 1/10th of packets have an invalid checksum, assuming checksum offloading is NOT used (21/1000)
+[205343 - RX#01] 2024-02-06 18:57:53 Info: pcap: pcap file /home/matt1/Desktop/capstone-AI-model_network_traffic/Home-Traffic.pcapng end of file reached (pcap err code 0)
+[205342 - Suricata-Main] 2024-02-06 18:57:53 Notice: suricata: Signal Received.  Stopping engine.
+[205342 - Suricata-Main] 2024-02-06 18:57:53 Info: suricata: time elapsed 0.067s
+[205343 - RX#01] 2024-02-06 18:57:53 Notice: pcap: read 1 file, 1549 packets, 551718 bytes
+[205342 - Suricata-Main] 2024-02-06 18:57:53 Info: counters: Alerts: 0
+[205646 - Suricata-Main] 2024-02-06 18:58:28 Notice: suricata: This is Suricata version 7.0.2 RELEASE running in USER mode
+[205646 - Suricata-Main] 2024-02-06 18:58:28 Info: cpu: CPUs/cores online: 4
+[205646 - Suricata-Main] 2024-02-06 18:58:28 Info: suricata: Setting engine mode to IDS mode by default
+[205646 - Suricata-Main] 2024-02-06 18:58:28 Info: exception-policy: master exception-policy set to: auto
+[205646 - Suricata-Main] 2024-02-06 18:58:28 Info: logopenfile: fast output device (regular) initialized: fast.log
+[205646 - Suricata-Main] 2024-02-06 18:58:28 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[205646 - Suricata-Main] 2024-02-06 18:58:28 Info: logopenfile: stats output device (regular) initialized: stats.log
+[205646 - Suricata-Main] 2024-02-06 18:58:28 Info: detect: 2 rule files processed. 2 rules successfully loaded, 0 rules failed
+[205646 - Suricata-Main] 2024-02-06 18:58:28 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[205646 - Suricata-Main] 2024-02-06 18:58:28 Info: detect: 2 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 2 inspect application layer, 0 are decoder event only
+[205646 - Suricata-Main] 2024-02-06 18:58:28 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[205647 - RX#01] 2024-02-06 18:58:28 Info: pcap: Starting file run for /home/matt1/Desktop/capstone-AI-model_network_traffic/Home-Traffic.pcapng
+[205646 - Suricata-Main] 2024-02-06 18:58:28 Notice: threads: Threads created -> RX: 1 W: 4 FM: 1 FR: 1   Engine started.
+[205647 - RX#01] 2024-02-06 18:58:28 Info: checksum: Less than 1/10th of packets have an invalid checksum, assuming checksum offloading is NOT used (17/1000)
+[205647 - RX#01] 2024-02-06 18:58:28 Info: pcap: pcap file /home/matt1/Desktop/capstone-AI-model_network_traffic/Home-Traffic.pcapng end of file reached (pcap err code 0)
+[205646 - Suricata-Main] 2024-02-06 18:58:28 Notice: suricata: Signal Received.  Stopping engine.
+[205646 - Suricata-Main] 2024-02-06 18:58:28 Info: suricata: time elapsed 0.061s
+[205647 - RX#01] 2024-02-06 18:58:28 Notice: pcap: read 1 file, 1549 packets, 551718 bytes
+[205646 - Suricata-Main] 2024-02-06 18:58:28 Info: counters: Alerts: 0
+[87723 - Suricata-Main] 2024-02-07 17:57:03 Notice: suricata: This is Suricata version 7.0.2 RELEASE running in USER mode
+[87723 - Suricata-Main] 2024-02-07 17:57:03 Info: cpu: CPUs/cores online: 4
+[87723 - Suricata-Main] 2024-02-07 17:57:03 Info: suricata: Setting engine mode to IDS mode by default
+[87723 - Suricata-Main] 2024-02-07 17:57:03 Info: exception-policy: master exception-policy set to: auto
+[87723 - Suricata-Main] 2024-02-07 17:57:03 Info: logopenfile: fast output device (regular) initialized: fast.log
+[87723 - Suricata-Main] 2024-02-07 17:57:03 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[87723 - Suricata-Main] 2024-02-07 17:57:03 Info: logopenfile: stats output device (regular) initialized: stats.log
+[87723 - Suricata-Main] 2024-02-07 17:57:03 Info: detect: 1 rule files processed. 1 rules successfully loaded, 0 rules failed
+[87723 - Suricata-Main] 2024-02-07 17:57:03 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[87723 - Suricata-Main] 2024-02-07 17:57:03 Info: detect: 1 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+[87723 - Suricata-Main] 2024-02-07 17:57:03 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[87724 - RX#01] 2024-02-07 17:57:03 Info: pcap: Starting file run for /home/matt1/Desktop/capstone-AI-model_network_traffic/Home-Traffic.pcapng
+[87723 - Suricata-Main] 2024-02-07 17:57:03 Notice: threads: Threads created -> RX: 1 W: 4 FM: 1 FR: 1   Engine started.
+[87724 - RX#01] 2024-02-07 17:57:03 Info: checksum: No packets with invalid checksum, assuming checksum offloading is NOT used
+[87724 - RX#01] 2024-02-07 17:57:03 Info: pcap: pcap file /home/matt1/Desktop/capstone-AI-model_network_traffic/Home-Traffic.pcapng end of file reached (pcap err code 0)
+[87723 - Suricata-Main] 2024-02-07 17:57:03 Notice: suricata: Signal Received.  Stopping engine.
+[87723 - Suricata-Main] 2024-02-07 17:57:03 Info: suricata: time elapsed 0.065s
+[87724 - RX#01] 2024-02-07 17:57:03 Notice: pcap: read 1 file, 1549 packets, 551718 bytes
+[87723 - Suricata-Main] 2024-02-07 17:57:03 Info: counters: Alerts: 16
+[89963 - Suricata-Main] 2024-02-07 18:01:21 Notice: suricata: This is Suricata version 7.0.2 RELEASE running in USER mode
+[89963 - Suricata-Main] 2024-02-07 18:01:21 Info: cpu: CPUs/cores online: 4
+[89963 - Suricata-Main] 2024-02-07 18:01:21 Info: suricata: Setting engine mode to IDS mode by default
+[89963 - Suricata-Main] 2024-02-07 18:01:21 Info: exception-policy: master exception-policy set to: auto
+[89963 - Suricata-Main] 2024-02-07 18:01:21 Info: logopenfile: fast output device (regular) initialized: fast.log
+[89963 - Suricata-Main] 2024-02-07 18:01:21 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[89963 - Suricata-Main] 2024-02-07 18:01:21 Info: logopenfile: stats output device (regular) initialized: stats.log
+[89963 - Suricata-Main] 2024-02-07 18:01:21 Info: detect: 1 rule files processed. 1 rules successfully loaded, 0 rules failed
+[89963 - Suricata-Main] 2024-02-07 18:01:21 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[89963 - Suricata-Main] 2024-02-07 18:01:21 Info: detect: 1 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+[89972 - RX#01] 2024-02-07 18:01:21 Error: pcap: unknown file format
+[89972 - RX#01] 2024-02-07 18:01:21 Warning: pcap: Failed to init pcap file /home/matt1/Desktop/testing_model/Home-Traffic.csv, skipping
+[89963 - Suricata-Main] 2024-02-07 18:01:21 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[89972 - RX#01] 2024-02-07 18:01:21 Error: pcap: pcap file reader thread failed to initialize
+[89963 - Suricata-Main] 2024-02-07 18:01:21 Notice: threads: Threads created -> RX: 1 W: 4 FM: 1 FR: 1   Engine started.
+[89963 - Suricata-Main] 2024-02-07 18:01:21 Notice: suricata: Signal Received.  Stopping engine.
+[89963 - Suricata-Main] 2024-02-07 18:01:21 Info: suricata: time elapsed 0.052s
+[89963 - Suricata-Main] 2024-02-07 18:01:21 Info: counters: Alerts: 0
+[90690 - Suricata-Main] 2024-02-07 18:02:35 Notice: suricata: This is Suricata version 7.0.2 RELEASE running in USER mode
+[90690 - Suricata-Main] 2024-02-07 18:02:35 Info: cpu: CPUs/cores online: 4
+[90690 - Suricata-Main] 2024-02-07 18:02:35 Info: suricata: Setting engine mode to IDS mode by default
+[90690 - Suricata-Main] 2024-02-07 18:02:35 Info: exception-policy: master exception-policy set to: auto
+[90690 - Suricata-Main] 2024-02-07 18:02:35 Info: logopenfile: fast output device (regular) initialized: fast.log
+[90690 - Suricata-Main] 2024-02-07 18:02:35 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[90690 - Suricata-Main] 2024-02-07 18:02:35 Info: logopenfile: stats output device (regular) initialized: stats.log
+[90690 - Suricata-Main] 2024-02-07 18:02:35 Info: detect: 1 rule files processed. 1 rules successfully loaded, 0 rules failed
+[90690 - Suricata-Main] 2024-02-07 18:02:35 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[90690 - Suricata-Main] 2024-02-07 18:02:35 Info: detect: 1 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+[90690 - Suricata-Main] 2024-02-07 18:02:35 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[90691 - RX#01] 2024-02-07 18:02:35 Info: pcap: Starting file run for /home/matt1/Desktop/testing_model/Home-Traffic.pcapng
+[90690 - Suricata-Main] 2024-02-07 18:02:35 Notice: threads: Threads created -> RX: 1 W: 4 FM: 1 FR: 1   Engine started.
+[90691 - RX#01] 2024-02-07 18:02:35 Info: checksum: Less than 1/10th of packets have an invalid checksum, assuming checksum offloading is NOT used (21/1000)
+[90691 - RX#01] 2024-02-07 18:02:35 Info: pcap: pcap file /home/matt1/Desktop/testing_model/Home-Traffic.pcapng end of file reached (pcap err code 0)
+[90690 - Suricata-Main] 2024-02-07 18:02:35 Notice: suricata: Signal Received.  Stopping engine.
+[90690 - Suricata-Main] 2024-02-07 18:02:35 Info: suricata: time elapsed 0.062s
+[90691 - RX#01] 2024-02-07 18:02:35 Notice: pcap: read 1 file, 1549 packets, 551718 bytes
+[90690 - Suricata-Main] 2024-02-07 18:02:35 Info: counters: Alerts: 16
+[33827 - Suricata-Main] 2024-02-08 12:39:05 Notice: suricata: This is Suricata version 7.0.2 RELEASE running in USER mode
+[33827 - Suricata-Main] 2024-02-08 12:39:05 Info: cpu: CPUs/cores online: 4
+[33827 - Suricata-Main] 2024-02-08 12:39:05 Info: suricata: Setting engine mode to IDS mode by default
+[33827 - Suricata-Main] 2024-02-08 12:39:05 Info: exception-policy: master exception-policy set to: auto
+[33827 - Suricata-Main] 2024-02-08 12:39:05 Info: logopenfile: fast output device (regular) initialized: fast.log
+[33827 - Suricata-Main] 2024-02-08 12:39:05 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[33827 - Suricata-Main] 2024-02-08 12:39:05 Info: logopenfile: stats output device (regular) initialized: stats.log
+[33827 - Suricata-Main] 2024-02-08 12:39:05 Warning: detect: No rule files match the pattern /home/matt1/Desktop/capstone-AI-model_network_traffic/suricata_rules/Alert-on-TCP-NMAP-Requests.txt
+[33827 - Suricata-Main] 2024-02-08 12:39:05 Warning: detect: 1 rule files specified, but no rules were loaded!
+[33827 - Suricata-Main] 2024-02-08 12:39:05 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[33827 - Suricata-Main] 2024-02-08 12:39:05 Info: detect: 0 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+[33827 - Suricata-Main] 2024-02-08 12:39:05 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[33828 - RX#01] 2024-02-08 12:39:05 Info: pcap: Starting file run for /home/matt1/Desktop/testing_model/Home-Traffic.pcapng
+[33827 - Suricata-Main] 2024-02-08 12:39:05 Notice: threads: Threads created -> RX: 1 W: 4 FM: 1 FR: 1   Engine started.
+[33828 - RX#01] 2024-02-08 12:39:05 Info: checksum: Less than 1/10th of packets have an invalid checksum, assuming checksum offloading is NOT used (1/1000)
+[33828 - RX#01] 2024-02-08 12:39:05 Info: pcap: pcap file /home/matt1/Desktop/testing_model/Home-Traffic.pcapng end of file reached (pcap err code 0)
+[33827 - Suricata-Main] 2024-02-08 12:39:05 Notice: suricata: Signal Received.  Stopping engine.
+[33827 - Suricata-Main] 2024-02-08 12:39:05 Info: suricata: time elapsed 0.066s
+[33828 - RX#01] 2024-02-08 12:39:05 Notice: pcap: read 1 file, 1549 packets, 551718 bytes
+[33827 - Suricata-Main] 2024-02-08 12:39:05 Info: counters: Alerts: 0
+[34430 - Suricata-Main] 2024-02-08 12:40:14 Notice: suricata: This is Suricata version 7.0.2 RELEASE running in USER mode
+[34430 - Suricata-Main] 2024-02-08 12:40:14 Info: cpu: CPUs/cores online: 4
+[34430 - Suricata-Main] 2024-02-08 12:40:14 Info: suricata: Setting engine mode to IDS mode by default
+[34430 - Suricata-Main] 2024-02-08 12:40:14 Info: exception-policy: master exception-policy set to: auto
+[34430 - Suricata-Main] 2024-02-08 12:40:14 Info: logopenfile: fast output device (regular) initialized: fast.log
+[34430 - Suricata-Main] 2024-02-08 12:40:14 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[34430 - Suricata-Main] 2024-02-08 12:40:14 Info: logopenfile: stats output device (regular) initialized: stats.log
+[34430 - Suricata-Main] 2024-02-08 12:40:14 Warning: detect: 1 rule files specified, but no rules were loaded!
+[34430 - Suricata-Main] 2024-02-08 12:40:14 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[34430 - Suricata-Main] 2024-02-08 12:40:14 Info: detect: 0 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+[34430 - Suricata-Main] 2024-02-08 12:40:14 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[34431 - RX#01] 2024-02-08 12:40:14 Info: pcap: Starting file run for /home/matt1/Desktop/testing_model/Home-Traffic.pcapng
+[34430 - Suricata-Main] 2024-02-08 12:40:14 Notice: threads: Threads created -> RX: 1 W: 4 FM: 1 FR: 1   Engine started.
+[34431 - RX#01] 2024-02-08 12:40:14 Info: checksum: Less than 1/10th of packets have an invalid checksum, assuming checksum offloading is NOT used (16/1000)
+[34431 - RX#01] 2024-02-08 12:40:14 Info: pcap: pcap file /home/matt1/Desktop/testing_model/Home-Traffic.pcapng end of file reached (pcap err code 0)
+[34430 - Suricata-Main] 2024-02-08 12:40:14 Notice: suricata: Signal Received.  Stopping engine.
+[34430 - Suricata-Main] 2024-02-08 12:40:14 Info: suricata: time elapsed 0.062s
+[34431 - RX#01] 2024-02-08 12:40:14 Notice: pcap: read 1 file, 1549 packets, 551718 bytes
+[34430 - Suricata-Main] 2024-02-08 12:40:14 Info: counters: Alerts: 0
+[35065 - Suricata-Main] 2024-02-08 12:41:30 Notice: suricata: This is Suricata version 7.0.2 RELEASE running in USER mode
+[35065 - Suricata-Main] 2024-02-08 12:41:30 Info: cpu: CPUs/cores online: 4
+[35065 - Suricata-Main] 2024-02-08 12:41:30 Info: suricata: Setting engine mode to IDS mode by default
+[35065 - Suricata-Main] 2024-02-08 12:41:30 Info: exception-policy: master exception-policy set to: auto
+[35065 - Suricata-Main] 2024-02-08 12:41:30 Info: logopenfile: fast output device (regular) initialized: fast.log
+[35065 - Suricata-Main] 2024-02-08 12:41:30 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[35065 - Suricata-Main] 2024-02-08 12:41:30 Info: logopenfile: stats output device (regular) initialized: stats.log
+[35065 - Suricata-Main] 2024-02-08 12:41:30 Info: detect: 1 rule files processed. 1 rules successfully loaded, 0 rules failed
+[35065 - Suricata-Main] 2024-02-08 12:41:30 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[35065 - Suricata-Main] 2024-02-08 12:41:30 Info: detect: 1 signatures processed. 0 are IP-only rules, 1 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+[35065 - Suricata-Main] 2024-02-08 12:41:30 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[35066 - RX#01] 2024-02-08 12:41:30 Info: pcap: Starting file run for /home/matt1/Desktop/testing_model/Home-Traffic.pcapng
+[35066 - RX#01] 2024-02-08 12:41:30 Info: checksum: Less than 1/10th of packets have an invalid checksum, assuming checksum offloading is NOT used (4/1000)
+[35065 - Suricata-Main] 2024-02-08 12:41:30 Notice: threads: Threads created -> RX: 1 W: 4 FM: 1 FR: 1   Engine started.
+[35066 - RX#01] 2024-02-08 12:41:30 Info: pcap: pcap file /home/matt1/Desktop/testing_model/Home-Traffic.pcapng end of file reached (pcap err code 0)
+[35065 - Suricata-Main] 2024-02-08 12:41:30 Notice: suricata: Signal Received.  Stopping engine.
+[35065 - Suricata-Main] 2024-02-08 12:41:30 Info: suricata: time elapsed 0.064s
+[35066 - RX#01] 2024-02-08 12:41:30 Notice: pcap: read 1 file, 1549 packets, 551718 bytes
+[35065 - Suricata-Main] 2024-02-08 12:41:30 Info: counters: Alerts: 0
+[45817 - Suricata-Main] 2024-02-08 13:02:53 Notice: suricata: This is Suricata version 7.0.2 RELEASE running in USER mode
+[45817 - Suricata-Main] 2024-02-08 13:02:53 Info: cpu: CPUs/cores online: 4
+[45817 - Suricata-Main] 2024-02-08 13:02:53 Info: suricata: Setting engine mode to IDS mode by default
+[45817 - Suricata-Main] 2024-02-08 13:02:53 Info: exception-policy: master exception-policy set to: auto
+[45817 - Suricata-Main] 2024-02-08 13:02:53 Info: logopenfile: fast output device (regular) initialized: fast.log
+[45817 - Suricata-Main] 2024-02-08 13:02:53 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[45817 - Suricata-Main] 2024-02-08 13:02:53 Info: logopenfile: stats output device (regular) initialized: stats.log
+[45817 - Suricata-Main] 2024-02-08 13:02:53 Info: detect: 1 rule files processed. 1 rules successfully loaded, 0 rules failed
+[45817 - Suricata-Main] 2024-02-08 13:02:53 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[45817 - Suricata-Main] 2024-02-08 13:02:53 Info: detect: 1 signatures processed. 0 are IP-only rules, 1 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+[45817 - Suricata-Main] 2024-02-08 13:02:53 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[45818 - RX#01] 2024-02-08 13:02:53 Info: pcap: Starting file run for /home/matt1/Desktop/testing_model/Home-Traffic.pcapng
+[45817 - Suricata-Main] 2024-02-08 13:02:53 Notice: threads: Threads created -> RX: 1 W: 4 FM: 1 FR: 1   Engine started.
+[45818 - RX#01] 2024-02-08 13:02:53 Info: checksum: Less than 1/10th of packets have an invalid checksum, assuming checksum offloading is NOT used (16/1000)
+[45818 - RX#01] 2024-02-08 13:02:53 Info: pcap: pcap file /home/matt1/Desktop/testing_model/Home-Traffic.pcapng end of file reached (pcap err code 0)
+[45817 - Suricata-Main] 2024-02-08 13:02:53 Notice: suricata: Signal Received.  Stopping engine.
+[45817 - Suricata-Main] 2024-02-08 13:02:53 Info: suricata: time elapsed 0.059s
+[45818 - RX#01] 2024-02-08 13:02:53 Notice: pcap: read 1 file, 1549 packets, 551718 bytes
+[45817 - Suricata-Main] 2024-02-08 13:02:53 Info: counters: Alerts: 0
+[48471 - Suricata-Main] 2024-02-08 13:07:19 Notice: suricata: This is Suricata version 7.0.2 RELEASE running in USER mode
+[48471 - Suricata-Main] 2024-02-08 13:07:19 Info: cpu: CPUs/cores online: 4
+[48471 - Suricata-Main] 2024-02-08 13:07:19 Info: suricata: Setting engine mode to IDS mode by default
+[48471 - Suricata-Main] 2024-02-08 13:07:19 Info: exception-policy: master exception-policy set to: auto
+[48471 - Suricata-Main] 2024-02-08 13:07:19 Info: logopenfile: fast output device (regular) initialized: fast.log
+[48471 - Suricata-Main] 2024-02-08 13:07:19 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[48471 - Suricata-Main] 2024-02-08 13:07:19 Info: logopenfile: stats output device (regular) initialized: stats.log
+[48471 - Suricata-Main] 2024-02-08 13:07:19 Info: detect: 1 rule files processed. 1 rules successfully loaded, 0 rules failed
+[48471 - Suricata-Main] 2024-02-08 13:07:19 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[48471 - Suricata-Main] 2024-02-08 13:07:19 Info: detect: 1 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+[48471 - Suricata-Main] 2024-02-08 13:07:19 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[48472 - RX#01] 2024-02-08 13:07:19 Info: pcap: Starting file run for /home/matt1/Desktop/testing_model/Home-Traffic.pcapng
+[48471 - Suricata-Main] 2024-02-08 13:07:19 Notice: threads: Threads created -> RX: 1 W: 4 FM: 1 FR: 1   Engine started.
+[48472 - RX#01] 2024-02-08 13:07:19 Info: checksum: Less than 1/10th of packets have an invalid checksum, assuming checksum offloading is NOT used (29/1000)
+[48472 - RX#01] 2024-02-08 13:07:19 Info: pcap: pcap file /home/matt1/Desktop/testing_model/Home-Traffic.pcapng end of file reached (pcap err code 0)
+[48471 - Suricata-Main] 2024-02-08 13:07:19 Notice: suricata: Signal Received.  Stopping engine.
+[48471 - Suricata-Main] 2024-02-08 13:07:19 Info: suricata: time elapsed 0.065s
+[48472 - RX#01] 2024-02-08 13:07:19 Notice: pcap: read 1 file, 1549 packets, 551718 bytes
+[48471 - Suricata-Main] 2024-02-08 13:07:19 Info: counters: Alerts: 39
+[49227 - Suricata-Main] 2024-02-08 13:08:38 Notice: suricata: This is Suricata version 7.0.2 RELEASE running in USER mode
+[49227 - Suricata-Main] 2024-02-08 13:08:38 Info: cpu: CPUs/cores online: 4
+[49227 - Suricata-Main] 2024-02-08 13:08:38 Info: suricata: Setting engine mode to IDS mode by default
+[49227 - Suricata-Main] 2024-02-08 13:08:38 Info: exception-policy: master exception-policy set to: auto
+[49227 - Suricata-Main] 2024-02-08 13:08:38 Info: logopenfile: fast output device (regular) initialized: fast.log
+[49227 - Suricata-Main] 2024-02-08 13:08:38 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[49227 - Suricata-Main] 2024-02-08 13:08:38 Info: logopenfile: stats output device (regular) initialized: stats.log
+[49227 - Suricata-Main] 2024-02-08 13:08:38 Info: detect: 1 rule files processed. 1 rules successfully loaded, 0 rules failed
+[49227 - Suricata-Main] 2024-02-08 13:08:38 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[49227 - Suricata-Main] 2024-02-08 13:08:38 Info: detect: 1 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+[49227 - Suricata-Main] 2024-02-08 13:08:38 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[49228 - RX#01] 2024-02-08 13:08:38 Info: pcap: Starting file run for /home/matt1/Desktop/testing_model/Home-Traffic.pcapng
+[49227 - Suricata-Main] 2024-02-08 13:08:38 Notice: threads: Threads created -> RX: 1 W: 4 FM: 1 FR: 1   Engine started.
+[49228 - RX#01] 2024-02-08 13:08:38 Info: checksum: Less than 1/10th of packets have an invalid checksum, assuming checksum offloading is NOT used (15/1000)
+[49228 - RX#01] 2024-02-08 13:08:38 Info: pcap: pcap file /home/matt1/Desktop/testing_model/Home-Traffic.pcapng end of file reached (pcap err code 0)
+[49227 - Suricata-Main] 2024-02-08 13:08:38 Notice: suricata: Signal Received.  Stopping engine.
+[49227 - Suricata-Main] 2024-02-08 13:08:38 Info: suricata: time elapsed 0.067s
+[49228 - RX#01] 2024-02-08 13:08:38 Notice: pcap: read 1 file, 1549 packets, 551718 bytes
+[49227 - Suricata-Main] 2024-02-08 13:08:38 Info: counters: Alerts: 39
+[73952 - Suricata-Main] 2024-02-08 13:55:04 Notice: suricata: This is Suricata version 7.0.2 RELEASE running in USER mode
+[73952 - Suricata-Main] 2024-02-08 13:55:04 Info: cpu: CPUs/cores online: 4
+[73952 - Suricata-Main] 2024-02-08 13:55:04 Info: suricata: Setting engine mode to IDS mode by default
+[73952 - Suricata-Main] 2024-02-08 13:55:04 Info: exception-policy: master exception-policy set to: auto
+[73952 - Suricata-Main] 2024-02-08 13:55:04 Info: logopenfile: fast output device (regular) initialized: fast.log
+[73952 - Suricata-Main] 2024-02-08 13:55:04 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[73952 - Suricata-Main] 2024-02-08 13:55:04 Info: logopenfile: stats output device (regular) initialized: stats.log
+[73952 - Suricata-Main] 2024-02-08 13:55:04 Info: detect: 1 rule files processed. 1 rules successfully loaded, 0 rules failed
+[73952 - Suricata-Main] 2024-02-08 13:55:04 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[73952 - Suricata-Main] 2024-02-08 13:55:04 Info: detect: 1 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+[73952 - Suricata-Main] 2024-02-08 13:55:04 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[73953 - RX#01] 2024-02-08 13:55:04 Info: pcap: Starting file run for /home/matt1/Desktop/testing_model/Home-Traffic.pcapng
+[73952 - Suricata-Main] 2024-02-08 13:55:04 Notice: threads: Threads created -> RX: 1 W: 4 FM: 1 FR: 1   Engine started.
+[73953 - RX#01] 2024-02-08 13:55:04 Info: checksum: Less than 1/10th of packets have an invalid checksum, assuming checksum offloading is NOT used (4/1000)
+[73953 - RX#01] 2024-02-08 13:55:04 Info: pcap: pcap file /home/matt1/Desktop/testing_model/Home-Traffic.pcapng end of file reached (pcap err code 0)
+[73952 - Suricata-Main] 2024-02-08 13:55:04 Notice: suricata: Signal Received.  Stopping engine.
+[73952 - Suricata-Main] 2024-02-08 13:55:04 Info: suricata: time elapsed 0.061s
+[73953 - RX#01] 2024-02-08 13:55:04 Notice: pcap: read 1 file, 1549 packets, 551718 bytes
+[73952 - Suricata-Main] 2024-02-08 13:55:04 Info: counters: Alerts: 39
+[326947 - Suricata-Main] 2024-02-08 19:46:48 Notice: suricata: This is Suricata version 7.0.2 RELEASE running in USER mode
+[326947 - Suricata-Main] 2024-02-08 19:46:48 Info: cpu: CPUs/cores online: 4
+[326947 - Suricata-Main] 2024-02-08 19:46:48 Info: suricata: Setting engine mode to IDS mode by default
+[326947 - Suricata-Main] 2024-02-08 19:46:48 Info: exception-policy: master exception-policy set to: auto
+[326947 - Suricata-Main] 2024-02-08 19:46:48 Info: logopenfile: fast output device (regular) initialized: fast.log
+[326947 - Suricata-Main] 2024-02-08 19:46:48 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[326947 - Suricata-Main] 2024-02-08 19:46:48 Info: logopenfile: stats output device (regular) initialized: stats.log
+[326947 - Suricata-Main] 2024-02-08 19:46:48 Info: detect: 1 rule files processed. 1 rules successfully loaded, 0 rules failed
+[326947 - Suricata-Main] 2024-02-08 19:46:48 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[326947 - Suricata-Main] 2024-02-08 19:46:48 Info: detect: 1 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+[326947 - Suricata-Main] 2024-02-08 19:46:48 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[326948 - RX#01] 2024-02-08 19:46:49 Info: pcap: Starting file run for /home/matt1/Desktop/testing_model/test-traffic.pcapng
+[326948 - RX#01] 2024-02-08 19:46:49 Info: pcap: pcap file /home/matt1/Desktop/testing_model/test-traffic.pcapng end of file reached (pcap err code 0)
+[326947 - Suricata-Main] 2024-02-08 19:46:49 Notice: threads: Threads created -> RX: 1 W: 4 FM: 1 FR: 1   Engine started.
+[326947 - Suricata-Main] 2024-02-08 19:46:49 Notice: suricata: Signal Received.  Stopping engine.
+[326947 - Suricata-Main] 2024-02-08 19:46:49 Info: suricata: time elapsed 0.066s
+[326948 - RX#01] 2024-02-08 19:46:49 Info: pcap: 1/35th of packets have an invalid checksum
+[326948 - RX#01] 2024-02-08 19:46:49 Notice: pcap: read 1 file, 211 packets, 57041 bytes
+[326947 - Suricata-Main] 2024-02-08 19:46:49 Info: counters: Alerts: 3
+[8450 - Suricata-Main] 2024-02-09 17:12:53 Notice: suricata: This is Suricata version 7.0.2 RELEASE running in USER mode
+[8450 - Suricata-Main] 2024-02-09 17:12:53 Info: cpu: CPUs/cores online: 4
+[8450 - Suricata-Main] 2024-02-09 17:12:53 Info: suricata: Setting engine mode to IDS mode by default
+[8450 - Suricata-Main] 2024-02-09 17:12:53 Info: exception-policy: master exception-policy set to: auto
+[8450 - Suricata-Main] 2024-02-09 17:12:53 Info: logopenfile: fast output device (regular) initialized: fast.log
+[8450 - Suricata-Main] 2024-02-09 17:12:53 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[8450 - Suricata-Main] 2024-02-09 17:12:53 Info: logopenfile: stats output device (regular) initialized: stats.log
+[8450 - Suricata-Main] 2024-02-09 17:12:53 Info: detect: 1 rule files processed. 1 rules successfully loaded, 0 rules failed
+[8450 - Suricata-Main] 2024-02-09 17:12:53 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[8450 - Suricata-Main] 2024-02-09 17:12:53 Info: detect: 1 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+[8450 - Suricata-Main] 2024-02-09 17:12:53 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[8459 - RX#01] 2024-02-09 17:12:53 Info: pcap: Starting file run for /home/matt1/Desktop/testing_model/home-traffic.pcapng
+[8450 - Suricata-Main] 2024-02-09 17:12:53 Notice: threads: Threads created -> RX: 1 W: 4 FM: 1 FR: 1   Engine started.
+[8459 - RX#01] 2024-02-09 17:12:53 Info: checksum: More than 1/10th of packets have an invalid checksum, assuming checksum offloading is used (205/1000)
+[8459 - RX#01] 2024-02-09 17:12:53 Info: pcap: pcap file /home/matt1/Desktop/testing_model/home-traffic.pcapng end of file reached (pcap err code 0)
+[8450 - Suricata-Main] 2024-02-09 17:12:53 Notice: suricata: Signal Received.  Stopping engine.
+[8450 - Suricata-Main] 2024-02-09 17:12:53 Info: suricata: time elapsed 0.067s
+[8459 - RX#01] 2024-02-09 17:12:53 Notice: pcap: read 1 file, 1728 packets, 3011018 bytes
+[8450 - Suricata-Main] 2024-02-09 17:12:53 Info: counters: Alerts: 26
+[148316 - Suricata-Main] 2024-02-09 19:37:54 Notice: suricata: This is Suricata version 7.0.2 RELEASE running in USER mode
+[148316 - Suricata-Main] 2024-02-09 19:37:54 Info: cpu: CPUs/cores online: 4
+[148316 - Suricata-Main] 2024-02-09 19:37:54 Info: suricata: Setting engine mode to IDS mode by default
+[148316 - Suricata-Main] 2024-02-09 19:37:54 Info: exception-policy: master exception-policy set to: auto
+[148316 - Suricata-Main] 2024-02-09 19:37:54 Info: logopenfile: fast output device (regular) initialized: fast.log
+[148316 - Suricata-Main] 2024-02-09 19:37:54 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[148316 - Suricata-Main] 2024-02-09 19:37:54 Info: logopenfile: stats output device (regular) initialized: stats.log
+[148316 - Suricata-Main] 2024-02-09 19:37:54 Info: detect: 1 rule files processed. 1 rules successfully loaded, 0 rules failed
+[148316 - Suricata-Main] 2024-02-09 19:37:54 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[148316 - Suricata-Main] 2024-02-09 19:37:54 Info: detect: 1 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+[148316 - Suricata-Main] 2024-02-09 19:37:54 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[148325 - RX#01] 2024-02-09 19:37:54 Info: pcap: Starting file run for /home/matt1/Desktop/testing_model/home-traffic.pcapng
+[148316 - Suricata-Main] 2024-02-09 19:37:54 Notice: threads: Threads created -> RX: 1 W: 4 FM: 1 FR: 1   Engine started.
+[148325 - RX#01] 2024-02-09 19:37:54 Info: checksum: Less than 1/10th of packets have an invalid checksum, assuming checksum offloading is NOT used (57/1000)
+[148325 - RX#01] 2024-02-09 19:37:54 Info: pcap: pcap file /home/matt1/Desktop/testing_model/home-traffic.pcapng end of file reached (pcap err code 0)
+[148316 - Suricata-Main] 2024-02-09 19:37:54 Notice: suricata: Signal Received.  Stopping engine.
+[148316 - Suricata-Main] 2024-02-09 19:37:54 Info: suricata: time elapsed 0.076s
+[148325 - RX#01] 2024-02-09 19:37:54 Notice: pcap: read 1 file, 1728 packets, 3011018 bytes
+[148316 - Suricata-Main] 2024-02-09 19:37:54 Info: counters: Alerts: 0
+[149786 - Suricata-Main] 2024-02-09 19:40:31 Notice: suricata: This is Suricata version 7.0.2 RELEASE running in USER mode
+[149786 - Suricata-Main] 2024-02-09 19:40:31 Info: cpu: CPUs/cores online: 4
+[149786 - Suricata-Main] 2024-02-09 19:40:31 Info: suricata: Setting engine mode to IDS mode by default
+[149786 - Suricata-Main] 2024-02-09 19:40:31 Info: exception-policy: master exception-policy set to: auto
+[149786 - Suricata-Main] 2024-02-09 19:40:31 Info: logopenfile: fast output device (regular) initialized: fast.log
+[149786 - Suricata-Main] 2024-02-09 19:40:31 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[149786 - Suricata-Main] 2024-02-09 19:40:31 Info: logopenfile: stats output device (regular) initialized: stats.log
+[149786 - Suricata-Main] 2024-02-09 19:40:31 Info: detect: 1 rule files processed. 1 rules successfully loaded, 0 rules failed
+[149786 - Suricata-Main] 2024-02-09 19:40:31 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[149786 - Suricata-Main] 2024-02-09 19:40:31 Info: detect: 1 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 1 inspect application layer, 0 are decoder event only
+[149786 - Suricata-Main] 2024-02-09 19:40:31 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[149787 - RX#01] 2024-02-09 19:40:31 Info: pcap: Starting file run for /home/matt1/Desktop/testing_model/home-traffic.pcapng
+[149786 - Suricata-Main] 2024-02-09 19:40:31 Notice: threads: Threads created -> RX: 1 W: 4 FM: 1 FR: 1   Engine started.
+[149787 - RX#01] 2024-02-09 19:40:31 Info: checksum: More than 1/10th of packets have an invalid checksum, assuming checksum offloading is used (218/1000)
+[149787 - RX#01] 2024-02-09 19:40:31 Info: pcap: pcap file /home/matt1/Desktop/testing_model/home-traffic.pcapng end of file reached (pcap err code 0)
+[149786 - Suricata-Main] 2024-02-09 19:40:31 Notice: suricata: Signal Received.  Stopping engine.
+[149786 - Suricata-Main] 2024-02-09 19:40:31 Info: suricata: time elapsed 0.063s
+[149787 - RX#01] 2024-02-09 19:40:31 Notice: pcap: read 1 file, 1728 packets, 3011018 bytes
+[149786 - Suricata-Main] 2024-02-09 19:40:31 Info: counters: Alerts: 60
+[10883 - Suricata-Main] 2024-02-10 11:48:27 Notice: suricata: This is Suricata version 7.0.2 RELEASE running in USER mode
+[10883 - Suricata-Main] 2024-02-10 11:48:27 Info: cpu: CPUs/cores online: 4
+[10883 - Suricata-Main] 2024-02-10 11:48:27 Info: suricata: Setting engine mode to IDS mode by default
+[10883 - Suricata-Main] 2024-02-10 11:48:27 Info: exception-policy: master exception-policy set to: auto
+[10883 - Suricata-Main] 2024-02-10 11:48:27 Info: logopenfile: fast output device (regular) initialized: fast.log
+[10883 - Suricata-Main] 2024-02-10 11:48:27 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[10883 - Suricata-Main] 2024-02-10 11:48:27 Info: logopenfile: stats output device (regular) initialized: stats.log
+[10883 - Suricata-Main] 2024-02-10 11:48:27 Info: detect: 1 rule files processed. 1 rules successfully loaded, 0 rules failed
+[10883 - Suricata-Main] 2024-02-10 11:48:27 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[10883 - Suricata-Main] 2024-02-10 11:48:27 Info: detect: 1 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+[10883 - Suricata-Main] 2024-02-10 11:48:28 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[10892 - RX#01] 2024-02-10 11:48:28 Info: pcap: Starting file run for /home/matt1/Desktop/testing_model/home-network-feb06.pcapng
+[10883 - Suricata-Main] 2024-02-10 11:48:28 Notice: threads: Threads created -> RX: 1 W: 4 FM: 1 FR: 1   Engine started.
+[10892 - RX#01] 2024-02-10 11:48:28 Info: checksum: No packets with invalid checksum, assuming checksum offloading is NOT used
+[10892 - RX#01] 2024-02-10 11:48:28 Info: pcap: pcap file /home/matt1/Desktop/testing_model/home-network-feb06.pcapng end of file reached (pcap err code 0)
+[10883 - Suricata-Main] 2024-02-10 11:48:28 Notice: suricata: Signal Received.  Stopping engine.
+[10883 - Suricata-Main] 2024-02-10 11:48:28 Info: suricata: time elapsed 0.062s
+[10892 - RX#01] 2024-02-10 11:48:28 Notice: pcap: read 1 file, 1549 packets, 551718 bytes
+[10883 - Suricata-Main] 2024-02-10 11:48:28 Info: counters: Alerts: 16
+[43908 - Suricata-Main] 2024-02-10 19:32:30 Notice: suricata: This is Suricata version 7.0.2 RELEASE running in USER mode
+[43908 - Suricata-Main] 2024-02-10 19:32:30 Info: cpu: CPUs/cores online: 4
+[43908 - Suricata-Main] 2024-02-10 19:32:30 Info: suricata: Setting engine mode to IDS mode by default
+[43908 - Suricata-Main] 2024-02-10 19:32:30 Info: exception-policy: master exception-policy set to: auto
+[43908 - Suricata-Main] 2024-02-10 19:32:30 Info: logopenfile: fast output device (regular) initialized: fast.log
+[43908 - Suricata-Main] 2024-02-10 19:32:30 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[43908 - Suricata-Main] 2024-02-10 19:32:30 Info: logopenfile: stats output device (regular) initialized: stats.log
+[43908 - Suricata-Main] 2024-02-10 19:32:30 Info: detect: 1 rule files processed. 1 rules successfully loaded, 0 rules failed
+[43908 - Suricata-Main] 2024-02-10 19:32:30 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[43908 - Suricata-Main] 2024-02-10 19:32:30 Info: detect: 1 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+[43908 - Suricata-Main] 2024-02-10 19:32:30 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[43909 - RX#01] 2024-02-10 19:32:30 Info: pcap: Starting file run for /home/matt1/Desktop/testing_model/home-network-feb06.pcapng
+[43908 - Suricata-Main] 2024-02-10 19:32:30 Notice: threads: Threads created -> RX: 1 W: 4 FM: 1 FR: 1   Engine started.
+[43909 - RX#01] 2024-02-10 19:32:30 Info: checksum: No packets with invalid checksum, assuming checksum offloading is NOT used
+[43909 - RX#01] 2024-02-10 19:32:30 Info: pcap: pcap file /home/matt1/Desktop/testing_model/home-network-feb06.pcapng end of file reached (pcap err code 0)
+[43908 - Suricata-Main] 2024-02-10 19:32:30 Notice: suricata: Signal Received.  Stopping engine.
+[43908 - Suricata-Main] 2024-02-10 19:32:30 Info: suricata: time elapsed 0.066s
+[43909 - RX#01] 2024-02-10 19:32:30 Notice: pcap: read 1 file, 1549 packets, 551718 bytes
+[43908 - Suricata-Main] 2024-02-10 19:32:30 Info: counters: Alerts: 39

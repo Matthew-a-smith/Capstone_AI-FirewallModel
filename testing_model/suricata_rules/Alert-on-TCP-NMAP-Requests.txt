@@ -1,0 +1,1 @@
+alert tcp any any -> any any (msg:"Possible Nmap TCP SYN scan detected"; flags:S; classtype:attempted-recon; sid:1000006;)

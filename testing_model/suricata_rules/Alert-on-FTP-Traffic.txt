@@ -1,0 +1,1 @@
+alert tcp any any -> any 21 (msg:"FTP Traffic"; sid:1000005;)
