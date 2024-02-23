@@ -1,0 +1,21 @@
+Index	Prediction
+32	4.82% probability	ip.dst: 192.168.4.133, ip.src: 192.168.4.1, tcp.dstport: 51063, tcp.srcport: 199, tcp.window_size_value: 0, tcp.flags: 0x0014
+33	4.82% probability	ip.dst: 192.168.4.133, ip.src: 192.168.4.113, tcp.dstport: 51063, tcp.srcport: 199, tcp.window_size_value: 0, tcp.flags: 0x0014
+38	4.82% probability	ip.dst: 192.168.4.133, ip.src: 192.168.4.76, tcp.dstport: 51063, tcp.srcport: 199, tcp.window_size_value: 0, tcp.flags: 0x0014
+39	4.82% probability	ip.dst: 192.168.4.133, ip.src: 192.168.4.20, tcp.dstport: 51063, tcp.srcport: 199, tcp.window_size_value: 0, tcp.flags: 0x0014
+44	4.82% probability	ip.dst: 192.168.4.133, ip.src: 192.168.4.29, tcp.dstport: 51063, tcp.srcport: 199, tcp.window_size_value: 0, tcp.flags: 0x0014
+45	4.82% probability	ip.dst: 192.168.4.133, ip.src: 192.168.4.78, tcp.dstport: 51063, tcp.srcport: 199, tcp.window_size_value: 0, tcp.flags: 0x0014
+46	4.82% probability	ip.dst: 192.168.4.133, ip.src: 192.168.4.1, tcp.dstport: 51063, tcp.srcport: 23, tcp.window_size_value: 0, tcp.flags: 0x0014
+54	4.82% probability	ip.dst: 192.168.4.133, ip.src: 192.168.4.1, tcp.dstport: 51063, tcp.srcport: 445, tcp.window_size_value: 0, tcp.flags: 0x0014
+57	4.82% probability	ip.dst: 192.168.4.133, ip.src: 192.168.4.106, tcp.dstport: 51063, tcp.srcport: 23, tcp.window_size_value: 0, tcp.flags: 0x0014
+58	4.82% probability	ip.dst: 192.168.4.133, ip.src: 192.168.4.106, tcp.dstport: 51063, tcp.srcport: 199, tcp.window_size_value: 0, tcp.flags: 0x0014
+59	4.82% probability	ip.dst: 192.168.4.133, ip.src: 192.168.4.78, tcp.dstport: 51063, tcp.srcport: 23, tcp.window_size_value: 0, tcp.flags: 0x0014
+60	4.82% probability	ip.dst: 192.168.4.133, ip.src: 192.168.4.76, tcp.dstport: 51063, tcp.srcport: 23, tcp.window_size_value: 0, tcp.flags: 0x0014
+61	4.82% probability	ip.dst: 192.168.4.133, ip.src: 192.168.4.113, tcp.dstport: 51063, tcp.srcport: 23, tcp.window_size_value: 0, tcp.flags: 0x0014
+71	4.82% probability	ip.dst: 192.168.4.133, ip.src: 192.168.4.20, tcp.dstport: 51063, tcp.srcport: 445, tcp.window_size_value: 0, tcp.flags: 0x0014
+72	4.82% probability	ip.dst: 192.168.4.133, ip.src: 192.168.4.20, tcp.dstport: 51063, tcp.srcport: 23, tcp.window_size_value: 0, tcp.flags: 0x0014
+74	4.82% probability	ip.dst: 192.168.4.133, ip.src: 192.168.4.78, tcp.dstport: 51063, tcp.srcport: 445, tcp.window_size_value: 0, tcp.flags: 0x0014
+75	4.82% probability	ip.dst: 192.168.4.133, ip.src: 192.168.4.29, tcp.dstport: 51063, tcp.srcport: 445, tcp.window_size_value: 0, tcp.flags: 0x0014
+76	4.82% probability	ip.dst: 192.168.4.133, ip.src: 192.168.4.29, tcp.dstport: 51063, tcp.srcport: 23, tcp.window_size_value: 0, tcp.flags: 0x0014
+77	4.82% probability	ip.dst: 192.168.4.133, ip.src: 192.168.4.1, tcp.dstport: 51063, tcp.srcport: 111, tcp.window_size_value: 0, tcp.flags: 0x0014
+91	4.82% probability	ip.dst: 192.168.4.133, ip.src: 192.168.4.113, tcp.dstport: 51063, tcp.srcport: 445, tcp.window_size_value: 0, tcp.flags: 0x0014

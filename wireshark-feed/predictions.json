@@ -1,0 +1,242 @@
+[
+    {
+        "Index": 32,
+        "Prediction": 4.821917414665222,
+        "Details": {
+            "ip.dst": "192.168.4.133",
+            "ip.src": "192.168.4.1",
+            "tcp.dstport": 51063,
+            "tcp.srcport": 199,
+            "tcp.window_size_value": 0,
+            "tcp.flags": "0x0014"
+        }
+    },
+    {
+        "Index": 33,
+        "Prediction": 4.821917414665222,
+        "Details": {
+            "ip.dst": "192.168.4.133",
+            "ip.src": "192.168.4.113",
+            "tcp.dstport": 51063,
+            "tcp.srcport": 199,
+            "tcp.window_size_value": 0,
+            "tcp.flags": "0x0014"
+        }
+    },
+    {
+        "Index": 38,
+        "Prediction": 4.821917414665222,
+        "Details": {
+            "ip.dst": "192.168.4.133",
+            "ip.src": "192.168.4.76",
+            "tcp.dstport": 51063,
+            "tcp.srcport": 199,
+            "tcp.window_size_value": 0,
+            "tcp.flags": "0x0014"
+        }
+    },
+    {
+        "Index": 39,
+        "Prediction": 4.821917414665222,
+        "Details": {
+            "ip.dst": "192.168.4.133",
+            "ip.src": "192.168.4.20",
+            "tcp.dstport": 51063,
+            "tcp.srcport": 199,
+            "tcp.window_size_value": 0,
+            "tcp.flags": "0x0014"
+        }
+    },
+    {
+        "Index": 44,
+        "Prediction": 4.821917414665222,
+        "Details": {
+            "ip.dst": "192.168.4.133",
+            "ip.src": "192.168.4.29",
+            "tcp.dstport": 51063,
+            "tcp.srcport": 199,
+            "tcp.window_size_value": 0,
+            "tcp.flags": "0x0014"
+        }
+    },
+    {
+        "Index": 45,
+        "Prediction": 4.821917414665222,
+        "Details": {
+            "ip.dst": "192.168.4.133",
+            "ip.src": "192.168.4.78",
+            "tcp.dstport": 51063,
+            "tcp.srcport": 199,
+            "tcp.window_size_value": 0,
+            "tcp.flags": "0x0014"
+        }
+    },
+    {
+        "Index": 46,
+        "Prediction": 4.821917414665222,
+        "Details": {
+            "ip.dst": "192.168.4.133",
+            "ip.src": "192.168.4.1",
+            "tcp.dstport": 51063,
+            "tcp.srcport": 23,
+            "tcp.window_size_value": 0,
+            "tcp.flags": "0x0014"
+        }
+    },
+    {
+        "Index": 54,
+        "Prediction": 4.821917414665222,
+        "Details": {
+            "ip.dst": "192.168.4.133",
+            "ip.src": "192.168.4.1",
+            "tcp.dstport": 51063,
+            "tcp.srcport": 445,
+            "tcp.window_size_value": 0,
+            "tcp.flags": "0x0014"
+        }
+    },
+    {
+        "Index": 57,
+        "Prediction": 4.821917414665222,
+        "Details": {
+            "ip.dst": "192.168.4.133",
+            "ip.src": "192.168.4.106",
+            "tcp.dstport": 51063,
+            "tcp.srcport": 23,
+            "tcp.window_size_value": 0,
+            "tcp.flags": "0x0014"
+        }
+    },
+    {
+        "Index": 58,
+        "Prediction": 4.821917414665222,
+        "Details": {
+            "ip.dst": "192.168.4.133",
+            "ip.src": "192.168.4.106",
+            "tcp.dstport": 51063,
+            "tcp.srcport": 199,
+            "tcp.window_size_value": 0,
+            "tcp.flags": "0x0014"
+        }
+    },
+    {
+        "Index": 59,
+        "Prediction": 4.821917414665222,
+        "Details": {
+            "ip.dst": "192.168.4.133",
+            "ip.src": "192.168.4.78",
+            "tcp.dstport": 51063,
+            "tcp.srcport": 23,
+            "tcp.window_size_value": 0,
+            "tcp.flags": "0x0014"
+        }
+    },
+    {
+        "Index": 60,
+        "Prediction": 4.821917414665222,
+        "Details": {
+            "ip.dst": "192.168.4.133",
+            "ip.src": "192.168.4.76",
+            "tcp.dstport": 51063,
+            "tcp.srcport": 23,
+            "tcp.window_size_value": 0,
+            "tcp.flags": "0x0014"
+        }
+    },
+    {
+        "Index": 61,
+        "Prediction": 4.821917414665222,
+        "Details": {
+            "ip.dst": "192.168.4.133",
+            "ip.src": "192.168.4.113",
+            "tcp.dstport": 51063,
+            "tcp.srcport": 23,
+            "tcp.window_size_value": 0,
+            "tcp.flags": "0x0014"
+        }
+    },
+    {
+        "Index": 71,
+        "Prediction": 4.821917414665222,
+        "Details": {
+            "ip.dst": "192.168.4.133",
+            "ip.src": "192.168.4.20",
+            "tcp.dstport": 51063,
+            "tcp.srcport": 445,
+            "tcp.window_size_value": 0,
+            "tcp.flags": "0x0014"
+        }
+    },
+    {
+        "Index": 72,
+        "Prediction": 4.821917414665222,
+        "Details": {
+            "ip.dst": "192.168.4.133",
+            "ip.src": "192.168.4.20",
+            "tcp.dstport": 51063,
+            "tcp.srcport": 23,
+            "tcp.window_size_value": 0,
+            "tcp.flags": "0x0014"
+        }
+    },
+    {
+        "Index": 74,
+        "Prediction": 4.821917414665222,
+        "Details": {
+            "ip.dst": "192.168.4.133",
+            "ip.src": "192.168.4.78",
+            "tcp.dstport": 51063,
+            "tcp.srcport": 445,
+            "tcp.window_size_value": 0,
+            "tcp.flags": "0x0014"
+        }
+    },
+    {
+        "Index": 75,
+        "Prediction": 4.821917414665222,
+        "Details": {
+            "ip.dst": "192.168.4.133",
+            "ip.src": "192.168.4.29",
+            "tcp.dstport": 51063,
+            "tcp.srcport": 445,
+            "tcp.window_size_value": 0,
+            "tcp.flags": "0x0014"
+        }
+    },
+    {
+        "Index": 76,
+        "Prediction": 4.821917414665222,
+        "Details": {
+            "ip.dst": "192.168.4.133",
+            "ip.src": "192.168.4.29",
+            "tcp.dstport": 51063,
+            "tcp.srcport": 23,
+            "tcp.window_size_value": 0,
+            "tcp.flags": "0x0014"
+        }
+    },
+    {
+        "Index": 77,
+        "Prediction": 4.821917414665222,
+        "Details": {
+            "ip.dst": "192.168.4.133",
+            "ip.src": "192.168.4.1",
+            "tcp.dstport": 51063,
+            "tcp.srcport": 111,
+            "tcp.window_size_value": 0,
+            "tcp.flags": "0x0014"
+        }
+    },
+    {
+        "Index": 91,
+        "Prediction": 4.821917414665222,
+        "Details": {
+            "ip.dst": "192.168.4.133",
+            "ip.src": "192.168.4.113",
+            "tcp.dstport": 51063,
+            "tcp.srcport": 445,
+            "tcp.window_size_value": 0,
+            "tcp.flags": "0x0014"
+        }
+    }
+]
